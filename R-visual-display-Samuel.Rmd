@@ -7,6 +7,8 @@ output:
   word_document:
     toc: yes
 ---
+## GitHub repository with code, data, and slides for this workshop:
+## https://github.com/mcSamuelDataSci/R-visual-display-workshop
 
 ## Link to Folder with HLML version of this document and all files for this workshop:
 ## https://goo.gl/DCVQCk
