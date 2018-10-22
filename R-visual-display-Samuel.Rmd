@@ -726,7 +726,7 @@ There are 6 base R functions for building special continuous colors or "color ra
 
 ```{r}
 # {r eval=FALSE} for MS Word verion...
-par(mfrow=c(3,2),oma = c(0, 0, 3, 0))
+par(mfrow=c(3,2),oma = c(0, 0, 1, 0))
 barplot(1:100,col=rainbow(100),main="rainbow")
 barplot(1:20,col=heat.colors(20),main="heat.colors")
 barplot(1:10,col=topo.colors(10),main="topo.colors")
@@ -924,7 +924,7 @@ Demonstrates automated method for saving figures to files
 
 
 ```{r}
-win.metafile(filename= paste0(myPlace,"/G.out/GCplot%03d.wmf"))  # Integer formatting in file names causes files to be sequentially sent to numbered files
+png(filename= paste0(myPlace,"/G.out/GCplot%03d.png"))  # Integer formatting in file names causes files to be sequentially sent to numbered files
 
 attach(CA.gc.race)
 par(mfrow=c(3,5),mar=c(0,1,1,0)+1)
