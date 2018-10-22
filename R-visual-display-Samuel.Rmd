@@ -906,25 +906,18 @@ Figures can also be saved using a number of devise options or after a figure has
 Specify output file THEN make plot using graphics "devices/function"(bmp, png, wmf, and others); figure height and width, quality, and point size can be adjusted with parameters for some of these devices; through limited experimentation, I have found that the wmf format seems to work best for projects where high qualtiy images are needed  
 
 ```{r} 
-jpeg(filename=paste0(myPlace,"/inOut/junkplot1.png"),quality=100,width=1000,height=800)
+jpeg(filename=paste0(myPlace,"/tempOut/junkplot1.png"),quality=100,width=1000,height=800)
 plot(x<-1:100,x^2)
 dev.off()
 ```
-
-Make plot THEN direct output using savePlot
-Fix this some day?
-plot(x,x^3)
-savePlot(filename=paste0(myPlace,"/inOut/junkplot2.jpg"),type="jpg")
-dev.off()
 
 
 Series of "small multiple" figures using mfrow and multiple pages, indexing across rows (local health jurisdictions) of data frame  
 
 Demonstrates automated method for saving figures to files
 
-
 ```{r}
-png(filename= paste0(myPlace,"/G.out/GCplot%03d.png"))  # Integer formatting in file names causes files to be sequentially sent to numbered files
+png(filename= paste0(myPlace,"/tempOut/GCplot%03d.png"))  # Integer formatting in file names causes files to be sequentially sent to numbered files
 
 attach(CA.gc.race)
 par(mfrow=c(3,5),mar=c(0,1,1,0)+1)
