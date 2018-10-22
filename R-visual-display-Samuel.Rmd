@@ -1050,6 +1050,8 @@ shinyApp(ui = ui, server = server)
 
 # GGPLOT2
 
+http://www.cookbook-r.com/Graphs/
+https://www.sharpsightlabs.com/blog/ggplot-histogram/
 
 dev.off()   ## start with a new graphics device
 
