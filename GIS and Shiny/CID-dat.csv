@@ -1,0 +1,3158 @@
+Disease,County,Year,Count,Population,Rate
+Botulism- Wound,Alameda,2001,0,1466038,0
+Botulism- Wound,Alameda,2002,1,1468943,0.068
+Botulism- Wound,Alameda,2003,5,1467663,0.341
+Botulism- Wound,Alameda,2004,1,1466017,0.068
+Botulism- Wound,Alameda,2005,1,1460358,0.068
+Botulism- Wound,Alameda,2006,8,1465322,0.546
+Botulism- Wound,Alameda,2007,2,1476892,0.135
+Botulism- Wound,Alameda,2008,1,1492275,0.067
+Botulism- Wound,Alameda,2009,6,1504325,0.399
+Botulism- Wound,Alameda,2010,3,1513734,0.198
+Botulism- Wound,Alameda,2011,1,1526738,0.065
+Botulism- Wound,Alameda,2012,0,1539660,0
+Botulism- Wound,Alameda,2013,0,1564017,0
+Botulism- Wound,Alameda,2014,2,1584507,0.126
+Dengue,Alameda,2001,3,1466038,0.205
+Dengue,Alameda,2002,1,1468943,0.068
+Dengue,Alameda,2003,0,1467663,0
+Dengue,Alameda,2004,1,1466017,0.068
+Dengue,Alameda,2005,0,1460358,0
+Dengue,Alameda,2006,2,1465322,0.136
+Dengue,Alameda,2007,0,1476892,0
+Dengue,Alameda,2008,0,1492275,0
+Dengue,Alameda,2009,0,1504325,0
+Dengue,Alameda,2010,1,1513734,0.066
+Dengue,Alameda,2011,3,1526738,0.196
+Dengue,Alameda,2012,11,1539660,0.714
+Dengue,Alameda,2013,18,1564017,1.151
+Dengue,Alameda,2014,4,1584507,0.252
+Gonorrhea,Alameda,2001,2137,1466038,145.767
+Gonorrhea,Alameda,2002,2037,1468943,138.671
+Gonorrhea,Alameda,2003,1635,1467663,111.402
+Gonorrhea,Alameda,2004,1812,1466017,123.6
+Gonorrhea,Alameda,2005,2082,1460358,142.568
+Gonorrhea,Alameda,2006,2313,1465322,157.849
+Gonorrhea,Alameda,2007,2369,1476892,160.404
+Gonorrhea,Alameda,2008,1893,1492275,126.853
+Gonorrhea,Alameda,2009,1670,1504325,111.013
+Gonorrhea,Alameda,2010,1924,1513734,127.103
+Gonorrhea,Alameda,2011,1508,1526738,98.773
+Gonorrhea,Alameda,2012,1545,1539660,100.347
+Gonorrhea,Alameda,2013,1860,1564017,118.925
+Gonorrhea,Alameda,2014,2279,1584507,143.83
+Pertussis,Alameda,2001,20,1466038,1.364
+Pertussis,Alameda,2002,45,1468943,3.063
+Pertussis,Alameda,2003,44,1467663,2.998
+Pertussis,Alameda,2004,84,1466017,5.73
+Pertussis,Alameda,2005,122,1460358,8.354
+Pertussis,Alameda,2006,126,1465322,8.599
+Pertussis,Alameda,2007,51,1476892,3.453
+Pertussis,Alameda,2008,51,1492275,3.418
+Pertussis,Alameda,2009,37,1504325,2.46
+Pertussis,Alameda,2010,436,1513734,28.803
+Pertussis,Alameda,2011,209,1526738,13.689
+Pertussis,Alameda,2012,68,1539660,4.417
+Pertussis,Alameda,2013,137,1564017,8.759
+Pertussis,Alameda,2014,420,1584507,26.507
+Botulism- Wound,Alpine,2001,0,1237,0
+Botulism- Wound,Alpine,2002,0,1248,0
+Botulism- Wound,Alpine,2003,0,1249,0
+Botulism- Wound,Alpine,2004,0,1266,0
+Botulism- Wound,Alpine,2005,0,1208,0
+Botulism- Wound,Alpine,2006,0,1255,0
+Botulism- Wound,Alpine,2007,0,1248,0
+Botulism- Wound,Alpine,2008,0,1208,0
+Botulism- Wound,Alpine,2009,0,1180,0
+Botulism- Wound,Alpine,2010,0,1163,0
+Botulism- Wound,Alpine,2011,0,1118,0
+Botulism- Wound,Alpine,2012,0,1114,0
+Botulism- Wound,Alpine,2013,0,1112,0
+Dengue,Alpine,2001,0,1237,0
+Dengue,Alpine,2002,0,1248,0
+Dengue,Alpine,2003,0,1249,0
+Dengue,Alpine,2004,0,1266,0
+Dengue,Alpine,2005,0,1208,0
+Dengue,Alpine,2006,0,1255,0
+Dengue,Alpine,2007,0,1248,0
+Dengue,Alpine,2008,0,1208,0
+Dengue,Alpine,2009,0,1180,0
+Dengue,Alpine,2010,0,1163,0
+Dengue,Alpine,2011,0,1118,0
+Dengue,Alpine,2012,0,1114,0
+Dengue,Alpine,2013,0,1112,0
+Gonorrhea,Alpine,2001,0,1237,0
+Gonorrhea,Alpine,2002,0,1248,0
+Gonorrhea,Alpine,2003,0,1249,0
+Gonorrhea,Alpine,2004,0,1266,0
+Gonorrhea,Alpine,2005,0,1208,0
+Gonorrhea,Alpine,2006,0,1255,0
+Gonorrhea,Alpine,2007,0,1248,0
+Gonorrhea,Alpine,2008,0,1208,0
+Gonorrhea,Alpine,2009,0,1180,0
+Gonorrhea,Alpine,2010,0,1163,0
+Gonorrhea,Alpine,2011,0,1118,0
+Gonorrhea,Alpine,2012,0,1114,0
+Gonorrhea,Alpine,2013,0,1112,0
+Pertussis,Alpine,2001,0,1237,0
+Pertussis,Alpine,2002,0,1248,0
+Pertussis,Alpine,2003,0,1249,0
+Pertussis,Alpine,2004,0,1266,0
+Pertussis,Alpine,2005,0,1208,0
+Pertussis,Alpine,2006,0,1255,0
+Pertussis,Alpine,2007,0,1248,0
+Pertussis,Alpine,2008,0,1208,0
+Pertussis,Alpine,2009,0,1180,0
+Pertussis,Alpine,2010,0,1163,0
+Pertussis,Alpine,2011,0,1118,0
+Pertussis,Alpine,2012,0,1114,0
+Pertussis,Alpine,2013,0,1112,0
+Botulism- Wound,Amador,2001,0,35784,0
+Botulism- Wound,Amador,2002,0,36535,0
+Botulism- Wound,Amador,2003,0,36776,0
+Botulism- Wound,Amador,2004,0,37147,0
+Botulism- Wound,Amador,2005,0,37722,0
+Botulism- Wound,Amador,2006,0,37964,0
+Botulism- Wound,Amador,2007,0,38085,0
+Botulism- Wound,Amador,2008,0,37864,0
+Botulism- Wound,Amador,2009,0,37905,0
+Botulism- Wound,Amador,2010,0,37863,0
+Botulism- Wound,Amador,2011,0,37309,0
+Botulism- Wound,Amador,2012,0,36403,0
+Botulism- Wound,Amador,2013,0,36028,0
+Dengue,Amador,2001,0,35784,0
+Dengue,Amador,2002,0,36535,0
+Dengue,Amador,2003,0,36776,0
+Dengue,Amador,2004,0,37147,0
+Dengue,Amador,2005,0,37722,0
+Dengue,Amador,2006,0,37964,0
+Dengue,Amador,2007,0,38085,0
+Dengue,Amador,2008,0,37864,0
+Dengue,Amador,2009,0,37905,0
+Dengue,Amador,2010,1,37863,2.641
+Dengue,Amador,2011,0,37309,0
+Dengue,Amador,2012,0,36403,0
+Dengue,Amador,2013,0,36028,0
+Dengue,Amador,2014,1,36099,2.77
+Gonorrhea,Amador,2001,2,35784,5.589
+Gonorrhea,Amador,2002,1,36535,2.737
+Gonorrhea,Amador,2003,1,36776,2.719
+Gonorrhea,Amador,2004,11,37147,29.612
+Gonorrhea,Amador,2005,8,37722,21.208
+Gonorrhea,Amador,2006,5,37964,13.17
+Gonorrhea,Amador,2007,1,38085,2.626
+Gonorrhea,Amador,2008,4,37864,10.564
+Gonorrhea,Amador,2009,6,37905,15.829
+Gonorrhea,Amador,2010,4,37863,10.564
+Gonorrhea,Amador,2011,5,37309,13.402
+Gonorrhea,Amador,2012,2,36403,5.494
+Gonorrhea,Amador,2013,6,36028,16.654
+Gonorrhea,Amador,2014,11,36099,30.472
+Pertussis,Amador,2001,1,35784,2.795
+Pertussis,Amador,2002,0,36535,0
+Pertussis,Amador,2003,0,36776,0
+Pertussis,Amador,2004,5,37147,13.46
+Pertussis,Amador,2005,2,37722,5.302
+Pertussis,Amador,2006,4,37964,10.536
+Pertussis,Amador,2007,0,38085,0
+Pertussis,Amador,2008,0,37864,0
+Pertussis,Amador,2009,4,37905,10.553
+Pertussis,Amador,2010,4,37863,10.564
+Pertussis,Amador,2011,11,37309,29.484
+Pertussis,Amador,2012,1,36403,2.747
+Pertussis,Amador,2013,2,36028,5.551
+Pertussis,Amador,2014,1,36099,2.77
+Botulism- Wound,Butte,2001,0,205730,0
+Botulism- Wound,Butte,2002,1,208154,0.48
+Botulism- Wound,Butte,2003,0,210623,0
+Botulism- Wound,Butte,2004,0,212212,0
+Botulism- Wound,Butte,2005,0,213698,0
+Botulism- Wound,Butte,2006,0,215684,0
+Botulism- Wound,Butte,2007,0,217115,0
+Botulism- Wound,Butte,2008,0,218485,0
+Botulism- Wound,Butte,2009,0,219287,0
+Botulism- Wound,Butte,2010,0,219971,0
+Botulism- Wound,Butte,2011,0,220434,0
+Botulism- Wound,Butte,2012,0,220980,0
+Botulism- Wound,Butte,2013,0,221416,0
+Dengue,Butte,2001,0,205730,0
+Dengue,Butte,2002,0,208154,0
+Dengue,Butte,2003,0,210623,0
+Dengue,Butte,2004,0,212212,0
+Dengue,Butte,2005,0,213698,0
+Dengue,Butte,2006,0,215684,0
+Dengue,Butte,2007,0,217115,0
+Dengue,Butte,2008,0,218485,0
+Dengue,Butte,2009,0,219287,0
+Dengue,Butte,2010,0,219971,0
+Dengue,Butte,2011,0,220434,0
+Dengue,Butte,2012,0,220980,0
+Dengue,Butte,2013,1,221416,0.452
+Dengue,Butte,2014,1,223905,0.447
+Gonorrhea,Butte,2001,27,205730,13.124
+Gonorrhea,Butte,2002,26,208154,12.491
+Gonorrhea,Butte,2003,143,210623,67.894
+Gonorrhea,Butte,2004,146,212212,68.799
+Gonorrhea,Butte,2005,116,213698,54.282
+Gonorrhea,Butte,2006,123,215684,57.028
+Gonorrhea,Butte,2007,165,217115,75.997
+Gonorrhea,Butte,2008,66,218485,30.208
+Gonorrhea,Butte,2009,51,219287,23.257
+Gonorrhea,Butte,2010,61,219971,27.731
+Gonorrhea,Butte,2011,49,220434,22.229
+Gonorrhea,Butte,2012,69,220980,31.225
+Gonorrhea,Butte,2013,143,221416,64.584
+Gonorrhea,Butte,2014,302,223905,134.879
+Pertussis,Butte,2001,0,205730,0
+Pertussis,Butte,2002,9,208154,4.324
+Pertussis,Butte,2003,1,210623,0.475
+Pertussis,Butte,2004,8,212212,3.77
+Pertussis,Butte,2005,12,213698,5.615
+Pertussis,Butte,2006,4,215684,1.855
+Pertussis,Butte,2007,3,217115,1.382
+Pertussis,Butte,2008,2,218485,0.915
+Pertussis,Butte,2009,3,219287,1.368
+Pertussis,Butte,2010,32,219971,14.547
+Pertussis,Butte,2011,16,220434,7.258
+Pertussis,Butte,2012,3,220980,1.358
+Pertussis,Butte,2013,33,221416,14.904
+Pertussis,Butte,2014,33,223905,14.738
+Botulism- Wound,Calaveras,2001,0,41428,0
+Botulism- Wound,Calaveras,2002,0,42119,0
+Botulism- Wound,Calaveras,2003,0,43186,0
+Botulism- Wound,Calaveras,2004,0,43924,0
+Botulism- Wound,Calaveras,2005,0,44773,0
+Botulism- Wound,Calaveras,2006,0,45316,0
+Botulism- Wound,Calaveras,2007,0,45638,0
+Botulism- Wound,Calaveras,2008,0,45702,0
+Botulism- Wound,Calaveras,2009,0,45562,0
+Botulism- Wound,Calaveras,2010,0,45456,0
+Botulism- Wound,Calaveras,2011,0,45121,0
+Botulism- Wound,Calaveras,2012,0,44923,0
+Botulism- Wound,Calaveras,2013,0,44852,0
+Dengue,Calaveras,2001,0,41428,0
+Dengue,Calaveras,2002,0,42119,0
+Dengue,Calaveras,2003,0,43186,0
+Dengue,Calaveras,2004,0,43924,0
+Dengue,Calaveras,2005,0,44773,0
+Dengue,Calaveras,2006,0,45316,0
+Dengue,Calaveras,2007,0,45638,0
+Dengue,Calaveras,2008,0,45702,0
+Dengue,Calaveras,2009,0,45562,0
+Dengue,Calaveras,2010,0,45456,0
+Dengue,Calaveras,2011,0,45121,0
+Dengue,Calaveras,2012,0,44923,0
+Dengue,Calaveras,2013,0,44852,0
+Gonorrhea,Calaveras,2001,2,41428,4.828
+Gonorrhea,Calaveras,2002,3,42119,7.123
+Gonorrhea,Calaveras,2003,7,43186,16.209
+Gonorrhea,Calaveras,2004,11,43924,25.043
+Gonorrhea,Calaveras,2005,13,44773,29.035
+Gonorrhea,Calaveras,2006,9,45316,19.861
+Gonorrhea,Calaveras,2007,5,45638,10.956
+Gonorrhea,Calaveras,2008,1,45702,2.188
+Gonorrhea,Calaveras,2009,4,45562,8.779
+Gonorrhea,Calaveras,2010,6,45456,13.2
+Gonorrhea,Calaveras,2011,4,45121,8.865
+Gonorrhea,Calaveras,2012,5,44923,11.13
+Gonorrhea,Calaveras,2013,10,44852,22.296
+Gonorrhea,Calaveras,2014,19,45079,42.148
+Pertussis,Calaveras,2001,2,41428,4.828
+Pertussis,Calaveras,2002,1,42119,2.374
+Pertussis,Calaveras,2003,1,43186,2.316
+Pertussis,Calaveras,2004,1,43924,2.277
+Pertussis,Calaveras,2005,4,44773,8.934
+Pertussis,Calaveras,2006,9,45316,19.861
+Pertussis,Calaveras,2007,0,45638,0
+Pertussis,Calaveras,2008,13,45702,28.445
+Pertussis,Calaveras,2009,6,45562,13.169
+Pertussis,Calaveras,2010,9,45456,19.799
+Pertussis,Calaveras,2011,5,45121,11.081
+Pertussis,Calaveras,2012,0,44923,0
+Pertussis,Calaveras,2013,2,44852,4.459
+Pertussis,Calaveras,2014,17,45079,37.712
+Botulism- Wound,Colusa,2001,0,19068,0
+Botulism- Wound,Colusa,2002,0,19391,0
+Botulism- Wound,Colusa,2003,0,19685,0
+Botulism- Wound,Colusa,2004,0,20184,0
+Botulism- Wound,Colusa,2005,0,20565,0
+Botulism- Wound,Colusa,2006,0,20893,0
+Botulism- Wound,Colusa,2007,0,21119,0
+Botulism- Wound,Colusa,2008,0,21172,0
+Botulism- Wound,Colusa,2009,0,21270,0
+Botulism- Wound,Colusa,2010,0,21483,0
+Botulism- Wound,Colusa,2011,0,21497,0
+Botulism- Wound,Colusa,2012,0,21442,0
+Botulism- Wound,Colusa,2013,0,21665,0
+Dengue,Colusa,2001,0,19068,0
+Dengue,Colusa,2002,0,19391,0
+Dengue,Colusa,2003,0,19685,0
+Dengue,Colusa,2004,0,20184,0
+Dengue,Colusa,2005,0,20565,0
+Dengue,Colusa,2006,0,20893,0
+Dengue,Colusa,2007,0,21119,0
+Dengue,Colusa,2008,0,21172,0
+Dengue,Colusa,2009,0,21270,0
+Dengue,Colusa,2010,1,21483,4.655
+Dengue,Colusa,2011,0,21497,0
+Dengue,Colusa,2012,0,21442,0
+Dengue,Colusa,2013,0,21665,0
+Gonorrhea,Colusa,2001,5,19068,26.222
+Gonorrhea,Colusa,2002,2,19391,10.314
+Gonorrhea,Colusa,2003,4,19685,20.32
+Gonorrhea,Colusa,2004,6,20184,29.727
+Gonorrhea,Colusa,2005,5,20565,24.313
+Gonorrhea,Colusa,2006,4,20893,19.145
+Gonorrhea,Colusa,2007,1,21119,4.735
+Gonorrhea,Colusa,2008,2,21172,9.446
+Gonorrhea,Colusa,2009,3,21270,14.104
+Gonorrhea,Colusa,2010,0,21483,0
+Gonorrhea,Colusa,2011,1,21497,4.652
+Gonorrhea,Colusa,2012,1,21442,4.664
+Gonorrhea,Colusa,2013,9,21665,41.542
+Gonorrhea,Colusa,2014,5,21606,23.142
+Pertussis,Colusa,2001,0,19068,0
+Pertussis,Colusa,2002,0,19391,0
+Pertussis,Colusa,2003,0,19685,0
+Pertussis,Colusa,2004,0,20184,0
+Pertussis,Colusa,2005,0,20565,0
+Pertussis,Colusa,2006,1,20893,4.786
+Pertussis,Colusa,2007,0,21119,0
+Pertussis,Colusa,2008,1,21172,4.723
+Pertussis,Colusa,2009,1,21270,4.701
+Pertussis,Colusa,2010,11,21483,51.203
+Pertussis,Colusa,2011,1,21497,4.652
+Pertussis,Colusa,2012,0,21442,0
+Pertussis,Colusa,2013,0,21665,0
+Botulism- Wound,Contra Costa,2001,0,970496,0
+Botulism- Wound,Contra Costa,2002,0,978795,0
+Botulism- Wound,Contra Costa,2003,0,989705,0
+Botulism- Wound,Contra Costa,2004,1,998201,0.1
+Botulism- Wound,Contra Costa,2005,1,1004230,0.1
+Botulism- Wound,Contra Costa,2006,1,1010104,0.099
+Botulism- Wound,Contra Costa,2007,1,1021251,0.098
+Botulism- Wound,Contra Costa,2008,0,1033292,0
+Botulism- Wound,Contra Costa,2009,0,1043501,0
+Botulism- Wound,Contra Costa,2010,0,1052199,0
+Botulism- Wound,Contra Costa,2011,0,1061197,0
+Botulism- Wound,Contra Costa,2012,0,1069158,0
+Botulism- Wound,Contra Costa,2013,0,1081948,0
+Dengue,Contra Costa,2001,0,970496,0
+Dengue,Contra Costa,2002,0,978795,0
+Dengue,Contra Costa,2003,0,989705,0
+Dengue,Contra Costa,2004,0,998201,0
+Dengue,Contra Costa,2005,1,1004230,0.1
+Dengue,Contra Costa,2006,1,1010104,0.099
+Dengue,Contra Costa,2007,1,1021251,0.098
+Dengue,Contra Costa,2008,0,1033292,0
+Dengue,Contra Costa,2009,1,1043501,0.096
+Dengue,Contra Costa,2010,0,1052199,0
+Dengue,Contra Costa,2011,1,1061197,0.094
+Dengue,Contra Costa,2012,4,1069158,0.374
+Dengue,Contra Costa,2013,3,1081948,0.277
+Dengue,Contra Costa,2014,3,1096637,0.274
+Gonorrhea,Contra Costa,2001,672,970496,69.243
+Gonorrhea,Contra Costa,2002,675,978795,68.962
+Gonorrhea,Contra Costa,2003,536,989705,54.158
+Gonorrhea,Contra Costa,2004,762,998201,76.337
+Gonorrhea,Contra Costa,2005,847,1004230,84.343
+Gonorrhea,Contra Costa,2006,817,1010104,80.883
+Gonorrhea,Contra Costa,2007,969,1021251,94.884
+Gonorrhea,Contra Costa,2008,780,1033292,75.487
+Gonorrhea,Contra Costa,2009,643,1043501,61.619
+Gonorrhea,Contra Costa,2010,821,1052199,78.027
+Gonorrhea,Contra Costa,2011,862,1061197,81.229
+Gonorrhea,Contra Costa,2012,932,1069158,87.171
+Gonorrhea,Contra Costa,2013,873,1081948,80.688
+Gonorrhea,Contra Costa,2014,1024,1096637,93.376
+Pertussis,Contra Costa,2001,11,970496,1.133
+Pertussis,Contra Costa,2002,15,978795,1.532
+Pertussis,Contra Costa,2003,11,989705,1.111
+Pertussis,Contra Costa,2004,10,998201,1.002
+Pertussis,Contra Costa,2005,56,1004230,5.576
+Pertussis,Contra Costa,2006,28,1010104,2.772
+Pertussis,Contra Costa,2007,25,1021251,2.448
+Pertussis,Contra Costa,2008,22,1033292,2.129
+Pertussis,Contra Costa,2009,20,1043501,1.917
+Pertussis,Contra Costa,2010,205,1052199,19.483
+Pertussis,Contra Costa,2011,114,1061197,10.743
+Pertussis,Contra Costa,2012,24,1069158,2.245
+Pertussis,Contra Costa,2013,69,1081948,6.377
+Pertussis,Contra Costa,2014,476,1096637,43.405
+Botulism- Wound,Del Norte,2001,0,27418,0
+Botulism- Wound,Del Norte,2002,0,27615,0
+Botulism- Wound,Del Norte,2003,0,27871,0
+Botulism- Wound,Del Norte,2004,0,28187,0
+Botulism- Wound,Del Norte,2005,0,28315,0
+Botulism- Wound,Del Norte,2006,0,28276,0
+Botulism- Wound,Del Norte,2007,0,28480,0
+Botulism- Wound,Del Norte,2008,0,28571,0
+Botulism- Wound,Del Norte,2009,0,28559,0
+Botulism- Wound,Del Norte,2010,0,28543,0
+Botulism- Wound,Del Norte,2011,0,28485,0
+Botulism- Wound,Del Norte,2012,0,28533,0
+Botulism- Wound,Del Norte,2013,0,28225,0
+Dengue,Del Norte,2001,0,27418,0
+Dengue,Del Norte,2002,0,27615,0
+Dengue,Del Norte,2003,0,27871,0
+Dengue,Del Norte,2004,0,28187,0
+Dengue,Del Norte,2005,0,28315,0
+Dengue,Del Norte,2006,0,28276,0
+Dengue,Del Norte,2007,0,28480,0
+Dengue,Del Norte,2008,0,28571,0
+Dengue,Del Norte,2009,0,28559,0
+Dengue,Del Norte,2010,0,28543,0
+Dengue,Del Norte,2011,0,28485,0
+Dengue,Del Norte,2012,0,28533,0
+Dengue,Del Norte,2013,0,28225,0
+Gonorrhea,Del Norte,2001,2,27418,7.294
+Gonorrhea,Del Norte,2002,1,27615,3.621
+Gonorrhea,Del Norte,2003,1,27871,3.588
+Gonorrhea,Del Norte,2004,4,28187,14.191
+Gonorrhea,Del Norte,2005,1,28315,3.532
+Gonorrhea,Del Norte,2006,1,28276,3.537
+Gonorrhea,Del Norte,2007,2,28480,7.022
+Gonorrhea,Del Norte,2008,1,28571,3.5
+Gonorrhea,Del Norte,2009,3,28559,10.505
+Gonorrhea,Del Norte,2010,1,28543,3.503
+Gonorrhea,Del Norte,2011,1,28485,3.511
+Gonorrhea,Del Norte,2012,0,28533,0
+Gonorrhea,Del Norte,2013,0,28225,0
+Gonorrhea,Del Norte,2014,16,28219,56.699
+Pertussis,Del Norte,2001,1,27418,3.647
+Pertussis,Del Norte,2002,0,27615,0
+Pertussis,Del Norte,2003,1,27871,3.588
+Pertussis,Del Norte,2004,0,28187,0
+Pertussis,Del Norte,2005,1,28315,3.532
+Pertussis,Del Norte,2006,0,28276,0
+Pertussis,Del Norte,2007,0,28480,0
+Pertussis,Del Norte,2008,0,28571,0
+Pertussis,Del Norte,2009,0,28559,0
+Pertussis,Del Norte,2010,16,28543,56.056
+Pertussis,Del Norte,2011,0,28485,0
+Pertussis,Del Norte,2012,0,28533,0
+Pertussis,Del Norte,2013,0,28225,0
+Pertussis,Del Norte,2014,2,28219,7.087
+Botulism- Wound,El Dorado,2001,0,161880,0
+Botulism- Wound,El Dorado,2002,0,164725,0
+Botulism- Wound,El Dorado,2003,0,167670,0
+Botulism- Wound,El Dorado,2004,0,170304,0
+Botulism- Wound,El Dorado,2005,0,173181,0
+Botulism- Wound,El Dorado,2006,0,175258,0
+Botulism- Wound,El Dorado,2007,0,177195,0
+Botulism- Wound,El Dorado,2008,0,178599,0
+Botulism- Wound,El Dorado,2009,0,179701,0
+Botulism- Wound,El Dorado,2010,0,180925,0
+Botulism- Wound,El Dorado,2011,0,180639,0
+Botulism- Wound,El Dorado,2012,0,182640,0
+Botulism- Wound,El Dorado,2013,0,182958,0
+Dengue,El Dorado,2001,0,161880,0
+Dengue,El Dorado,2002,0,164725,0
+Dengue,El Dorado,2003,0,167670,0
+Dengue,El Dorado,2004,0,170304,0
+Dengue,El Dorado,2005,0,173181,0
+Dengue,El Dorado,2006,0,175258,0
+Dengue,El Dorado,2007,0,177195,0
+Dengue,El Dorado,2008,0,178599,0
+Dengue,El Dorado,2009,0,179701,0
+Dengue,El Dorado,2010,0,180925,0
+Dengue,El Dorado,2011,0,180639,0
+Dengue,El Dorado,2012,0,182640,0
+Dengue,El Dorado,2013,0,182958,0
+Gonorrhea,El Dorado,2001,10,161880,6.177
+Gonorrhea,El Dorado,2002,13,164725,7.892
+Gonorrhea,El Dorado,2003,19,167670,11.332
+Gonorrhea,El Dorado,2004,17,170304,9.982
+Gonorrhea,El Dorado,2005,26,173181,15.013
+Gonorrhea,El Dorado,2006,17,175258,9.7
+Gonorrhea,El Dorado,2007,29,177195,16.366
+Gonorrhea,El Dorado,2008,14,178599,7.839
+Gonorrhea,El Dorado,2009,19,179701,10.573
+Gonorrhea,El Dorado,2010,16,180925,8.843
+Gonorrhea,El Dorado,2011,14,180639,7.75
+Gonorrhea,El Dorado,2012,21,182640,11.498
+Gonorrhea,El Dorado,2013,38,182958,20.77
+Gonorrhea,El Dorado,2014,51,183957,27.724
+Pertussis,El Dorado,2001,16,161880,9.884
+Pertussis,El Dorado,2002,19,164725,11.534
+Pertussis,El Dorado,2003,10,167670,5.964
+Pertussis,El Dorado,2004,20,170304,11.744
+Pertussis,El Dorado,2005,16,173181,9.239
+Pertussis,El Dorado,2006,12,175258,6.847
+Pertussis,El Dorado,2007,2,177195,1.129
+Pertussis,El Dorado,2008,1,178599,0.56
+Pertussis,El Dorado,2009,2,179701,1.113
+Pertussis,El Dorado,2010,54,180925,29.847
+Pertussis,El Dorado,2011,11,180639,6.089
+Pertussis,El Dorado,2012,3,182640,1.643
+Pertussis,El Dorado,2013,4,182958,2.186
+Pertussis,El Dorado,2014,36,183957,19.57
+Botulism- Wound,Fresno,2001,0,815003,0
+Botulism- Wound,Fresno,2002,2,828637,0.241
+Botulism- Wound,Fresno,2003,2,845917,0.236
+Botulism- Wound,Fresno,2004,0,860226,0
+Botulism- Wound,Fresno,2005,2,871910,0.229
+Botulism- Wound,Fresno,2006,1,886376,0.113
+Botulism- Wound,Fresno,2007,0,899826,0
+Botulism- Wound,Fresno,2008,0,913239,0
+Botulism- Wound,Fresno,2009,0,923895,0
+Botulism- Wound,Fresno,2010,0,932343,0
+Botulism- Wound,Fresno,2011,0,939329,0
+Botulism- Wound,Fresno,2012,1,948453,0.105
+Botulism- Wound,Fresno,2013,0,956967,0
+Botulism- Wound,Fresno,2014,1,967491,0.103
+Dengue,Fresno,2001,0,815003,0
+Dengue,Fresno,2002,0,828637,0
+Dengue,Fresno,2003,0,845917,0
+Dengue,Fresno,2004,0,860226,0
+Dengue,Fresno,2005,0,871910,0
+Dengue,Fresno,2006,0,886376,0
+Dengue,Fresno,2007,0,899826,0
+Dengue,Fresno,2008,0,913239,0
+Dengue,Fresno,2009,1,923895,0.108
+Dengue,Fresno,2010,0,932343,0
+Dengue,Fresno,2011,1,939329,0.106
+Dengue,Fresno,2012,1,948453,0.105
+Dengue,Fresno,2013,3,956967,0.313
+Dengue,Fresno,2014,2,967491,0.207
+Gonorrhea,Fresno,2001,783,815003,96.073
+Gonorrhea,Fresno,2002,1079,828637,130.214
+Gonorrhea,Fresno,2003,1130,845917,133.583
+Gonorrhea,Fresno,2004,1137,860226,132.175
+Gonorrhea,Fresno,2005,1312,871910,150.474
+Gonorrhea,Fresno,2006,1469,886376,165.731
+Gonorrhea,Fresno,2007,1083,899826,120.357
+Gonorrhea,Fresno,2008,658,913239,72.051
+Gonorrhea,Fresno,2009,721,923895,78.039
+Gonorrhea,Fresno,2010,798,932343,85.591
+Gonorrhea,Fresno,2011,1197,939329,127.431
+Gonorrhea,Fresno,2012,1504,948453,158.574
+Gonorrhea,Fresno,2013,1745,956967,182.347
+Gonorrhea,Fresno,2014,1507,967491,155.764
+Pertussis,Fresno,2001,17,815003,2.086
+Pertussis,Fresno,2002,68,828637,8.206
+Pertussis,Fresno,2003,14,845917,1.655
+Pertussis,Fresno,2004,18,860226,2.092
+Pertussis,Fresno,2005,631,871910,72.37
+Pertussis,Fresno,2006,100,886376,11.282
+Pertussis,Fresno,2007,33,899826,3.667
+Pertussis,Fresno,2008,19,913239,2.081
+Pertussis,Fresno,2009,34,923895,3.68
+Pertussis,Fresno,2010,550,932343,58.991
+Pertussis,Fresno,2011,58,939329,6.175
+Pertussis,Fresno,2012,16,948453,1.687
+Pertussis,Fresno,2013,43,956967,4.493
+Pertussis,Fresno,2014,392,967491,40.517
+Botulism- Wound,Glenn,2001,0,26611,0
+Botulism- Wound,Glenn,2002,0,26792,0
+Botulism- Wound,Glenn,2003,0,27156,0
+Botulism- Wound,Glenn,2004,0,27264,0
+Botulism- Wound,Glenn,2005,0,27525,0
+Botulism- Wound,Glenn,2006,0,27731,0
+Botulism- Wound,Glenn,2007,0,28013,0
+Botulism- Wound,Glenn,2008,0,28120,0
+Botulism- Wound,Glenn,2009,0,28056,0
+Botulism- Wound,Glenn,2010,0,28144,0
+Botulism- Wound,Glenn,2011,0,28256,0
+Botulism- Wound,Glenn,2012,0,28560,0
+Botulism- Wound,Glenn,2013,0,28628,0
+Dengue,Glenn,2001,0,26611,0
+Dengue,Glenn,2002,0,26792,0
+Dengue,Glenn,2003,0,27156,0
+Dengue,Glenn,2004,0,27264,0
+Dengue,Glenn,2005,0,27525,0
+Dengue,Glenn,2006,0,27731,0
+Dengue,Glenn,2007,0,28013,0
+Dengue,Glenn,2008,0,28120,0
+Dengue,Glenn,2009,0,28056,0
+Dengue,Glenn,2010,0,28144,0
+Dengue,Glenn,2011,0,28256,0
+Dengue,Glenn,2012,0,28560,0
+Dengue,Glenn,2013,0,28628,0
+Gonorrhea,Glenn,2001,1,26611,3.758
+Gonorrhea,Glenn,2002,1,26792,3.732
+Gonorrhea,Glenn,2003,1,27156,3.682
+Gonorrhea,Glenn,2004,3,27264,11.004
+Gonorrhea,Glenn,2005,6,27525,21.798
+Gonorrhea,Glenn,2006,4,27731,14.424
+Gonorrhea,Glenn,2007,11,28013,39.267
+Gonorrhea,Glenn,2008,1,28120,3.556
+Gonorrhea,Glenn,2009,2,28056,7.129
+Gonorrhea,Glenn,2010,7,28144,24.872
+Gonorrhea,Glenn,2011,7,28256,24.773
+Gonorrhea,Glenn,2012,8,28560,28.011
+Gonorrhea,Glenn,2013,5,28628,17.465
+Gonorrhea,Glenn,2014,7,28715,24.378
+Pertussis,Glenn,2001,0,26611,0
+Pertussis,Glenn,2002,0,26792,0
+Pertussis,Glenn,2003,0,27156,0
+Pertussis,Glenn,2004,1,27264,3.668
+Pertussis,Glenn,2005,1,27525,3.633
+Pertussis,Glenn,2006,1,27731,3.606
+Pertussis,Glenn,2007,1,28013,3.57
+Pertussis,Glenn,2008,0,28120,0
+Pertussis,Glenn,2009,0,28056,0
+Pertussis,Glenn,2010,1,28144,3.553
+Pertussis,Glenn,2011,1,28256,3.539
+Pertussis,Glenn,2012,0,28560,0
+Pertussis,Glenn,2013,0,28628,0
+Pertussis,Glenn,2014,1,28715,3.483
+Botulism- Wound,Humboldt,2001,0,127348,0
+Botulism- Wound,Humboldt,2002,0,128755,0
+Botulism- Wound,Humboldt,2003,0,130179,0
+Botulism- Wound,Humboldt,2004,0,131243,0
+Botulism- Wound,Humboldt,2005,0,131689,0
+Botulism- Wound,Humboldt,2006,0,132226,0
+Botulism- Wound,Humboldt,2007,0,132657,0
+Botulism- Wound,Humboldt,2008,0,133201,0
+Botulism- Wound,Humboldt,2009,0,133766,0
+Botulism- Wound,Humboldt,2010,0,134656,0
+Botulism- Wound,Humboldt,2011,0,135174,0
+Botulism- Wound,Humboldt,2012,0,134601,0
+Botulism- Wound,Humboldt,2013,0,134698,0
+Dengue,Humboldt,2001,0,127348,0
+Dengue,Humboldt,2002,0,128755,0
+Dengue,Humboldt,2003,0,130179,0
+Dengue,Humboldt,2004,0,131243,0
+Dengue,Humboldt,2005,0,131689,0
+Dengue,Humboldt,2006,0,132226,0
+Dengue,Humboldt,2007,0,132657,0
+Dengue,Humboldt,2008,0,133201,0
+Dengue,Humboldt,2009,0,133766,0
+Dengue,Humboldt,2010,0,134656,0
+Dengue,Humboldt,2011,0,135174,0
+Dengue,Humboldt,2012,0,134601,0
+Dengue,Humboldt,2013,0,134698,0
+Gonorrhea,Humboldt,2001,29,127348,22.772
+Gonorrhea,Humboldt,2002,20,128755,15.533
+Gonorrhea,Humboldt,2003,40,130179,30.727
+Gonorrhea,Humboldt,2004,51,131243,38.859
+Gonorrhea,Humboldt,2005,26,131689,19.743
+Gonorrhea,Humboldt,2006,21,132226,15.882
+Gonorrhea,Humboldt,2007,62,132657,46.737
+Gonorrhea,Humboldt,2008,25,133201,18.769
+Gonorrhea,Humboldt,2009,18,133766,13.456
+Gonorrhea,Humboldt,2010,31,134656,23.022
+Gonorrhea,Humboldt,2011,44,135174,32.551
+Gonorrhea,Humboldt,2012,66,134601,49.034
+Gonorrhea,Humboldt,2013,203,134698,150.708
+Gonorrhea,Humboldt,2014,142,134609,105.491
+Pertussis,Humboldt,2001,4,127348,3.141
+Pertussis,Humboldt,2002,10,128755,7.767
+Pertussis,Humboldt,2003,0,130179,0
+Pertussis,Humboldt,2004,8,131243,6.096
+Pertussis,Humboldt,2005,64,131689,48.599
+Pertussis,Humboldt,2006,17,132226,12.857
+Pertussis,Humboldt,2007,1,132657,0.754
+Pertussis,Humboldt,2008,4,133201,3.003
+Pertussis,Humboldt,2009,14,133766,10.466
+Pertussis,Humboldt,2010,58,134656,43.073
+Pertussis,Humboldt,2011,15,135174,11.097
+Pertussis,Humboldt,2012,1,134601,0.743
+Pertussis,Humboldt,2013,5,134698,3.712
+Pertussis,Humboldt,2014,149,134609,110.691
+Botulism- Wound,Imperial,2001,0,144726,0
+Botulism- Wound,Imperial,2002,0,147185,0
+Botulism- Wound,Imperial,2003,0,150909,0
+Botulism- Wound,Imperial,2004,1,153937,0.65
+Botulism- Wound,Imperial,2005,2,157657,1.269
+Botulism- Wound,Imperial,2006,1,162532,0.615
+Botulism- Wound,Imperial,2007,0,166894,0
+Botulism- Wound,Imperial,2008,0,170104,0
+Botulism- Wound,Imperial,2009,0,173241,0
+Botulism- Wound,Imperial,2010,0,175424,0
+Botulism- Wound,Imperial,2011,0,177359,0
+Botulism- Wound,Imperial,2012,1,178382,0.561
+Botulism- Wound,Imperial,2013,0,179142,0
+Dengue,Imperial,2001,0,144726,0
+Dengue,Imperial,2002,0,147185,0
+Dengue,Imperial,2003,0,150909,0
+Dengue,Imperial,2004,0,153937,0
+Dengue,Imperial,2005,0,157657,0
+Dengue,Imperial,2006,0,162532,0
+Dengue,Imperial,2007,0,166894,0
+Dengue,Imperial,2008,0,170104,0
+Dengue,Imperial,2009,0,173241,0
+Dengue,Imperial,2010,0,175424,0
+Dengue,Imperial,2011,1,177359,0.564
+Dengue,Imperial,2012,0,178382,0
+Dengue,Imperial,2013,0,179142,0
+Gonorrhea,Imperial,2001,40,144726,27.638
+Gonorrhea,Imperial,2002,63,147185,42.803
+Gonorrhea,Imperial,2003,37,150909,24.518
+Gonorrhea,Imperial,2004,48,153937,31.182
+Gonorrhea,Imperial,2005,64,157657,40.594
+Gonorrhea,Imperial,2006,43,162532,26.456
+Gonorrhea,Imperial,2007,62,166894,37.149
+Gonorrhea,Imperial,2008,57,170104,33.509
+Gonorrhea,Imperial,2009,28,173241,16.162
+Gonorrhea,Imperial,2010,25,175424,14.251
+Gonorrhea,Imperial,2011,38,177359,21.425
+Gonorrhea,Imperial,2012,35,178382,19.621
+Gonorrhea,Imperial,2013,43,179142,24.003
+Gonorrhea,Imperial,2014,84,181103,46.382
+Pertussis,Imperial,2001,1,144726,0.691
+Pertussis,Imperial,2002,1,147185,0.679
+Pertussis,Imperial,2003,3,150909,1.988
+Pertussis,Imperial,2004,3,153937,1.949
+Pertussis,Imperial,2005,4,157657,2.537
+Pertussis,Imperial,2006,1,162532,0.615
+Pertussis,Imperial,2007,2,166894,1.198
+Pertussis,Imperial,2008,0,170104,0
+Pertussis,Imperial,2009,0,173241,0
+Pertussis,Imperial,2010,9,175424,5.13
+Pertussis,Imperial,2011,3,177359,1.691
+Pertussis,Imperial,2012,8,178382,4.485
+Pertussis,Imperial,2013,3,179142,1.675
+Pertussis,Imperial,2014,10,181103,5.522
+Botulism- Wound,Inyo,2001,0,18207,0
+Botulism- Wound,Inyo,2002,0,18415,0
+Botulism- Wound,Inyo,2003,0,18507,0
+Botulism- Wound,Inyo,2004,0,18559,0
+Botulism- Wound,Inyo,2005,0,18463,0
+Botulism- Wound,Inyo,2006,0,18421,0
+Botulism- Wound,Inyo,2007,0,18447,0
+Botulism- Wound,Inyo,2008,0,18383,0
+Botulism- Wound,Inyo,2009,0,18448,0
+Botulism- Wound,Inyo,2010,0,18530,0
+Botulism- Wound,Inyo,2011,0,18666,0
+Botulism- Wound,Inyo,2012,0,18578,0
+Botulism- Wound,Inyo,2013,0,18584,0
+Dengue,Inyo,2001,0,18207,0
+Dengue,Inyo,2002,0,18415,0
+Dengue,Inyo,2003,0,18507,0
+Dengue,Inyo,2004,0,18559,0
+Dengue,Inyo,2005,0,18463,0
+Dengue,Inyo,2006,0,18421,0
+Dengue,Inyo,2007,0,18447,0
+Dengue,Inyo,2008,0,18383,0
+Dengue,Inyo,2009,0,18448,0
+Dengue,Inyo,2010,0,18530,0
+Dengue,Inyo,2011,0,18666,0
+Dengue,Inyo,2012,0,18578,0
+Dengue,Inyo,2013,0,18584,0
+Gonorrhea,Inyo,2001,1,18207,5.492
+Gonorrhea,Inyo,2002,1,18415,5.43
+Gonorrhea,Inyo,2003,1,18507,5.403
+Gonorrhea,Inyo,2004,4,18559,21.553
+Gonorrhea,Inyo,2005,7,18463,37.914
+Gonorrhea,Inyo,2006,1,18421,5.429
+Gonorrhea,Inyo,2007,1,18447,5.421
+Gonorrhea,Inyo,2008,1,18383,5.44
+Gonorrhea,Inyo,2009,4,18448,21.683
+Gonorrhea,Inyo,2010,3,18530,16.19
+Gonorrhea,Inyo,2011,1,18666,5.357
+Gonorrhea,Inyo,2012,1,18578,5.383
+Gonorrhea,Inyo,2013,2,18584,10.762
+Gonorrhea,Inyo,2014,9,18612,48.356
+Pertussis,Inyo,2001,1,18207,5.492
+Pertussis,Inyo,2002,0,18415,0
+Pertussis,Inyo,2003,0,18507,0
+Pertussis,Inyo,2004,0,18559,0
+Pertussis,Inyo,2005,15,18463,81.244
+Pertussis,Inyo,2006,10,18421,54.286
+Pertussis,Inyo,2007,0,18447,0
+Pertussis,Inyo,2008,1,18383,5.44
+Pertussis,Inyo,2009,0,18448,0
+Pertussis,Inyo,2010,8,18530,43.173
+Pertussis,Inyo,2011,0,18666,0
+Pertussis,Inyo,2012,1,18578,5.383
+Pertussis,Inyo,2013,0,18584,0
+Botulism- Wound,Kern,2001,1,679674,0.147
+Botulism- Wound,Kern,2002,0,696504,0
+Botulism- Wound,Kern,2003,0,717797,0
+Botulism- Wound,Kern,2004,0,740022,0
+Botulism- Wound,Kern,2005,1,761972,0.131
+Botulism- Wound,Kern,2006,1,786220,0.127
+Botulism- Wound,Kern,2007,0,805798,0
+Botulism- Wound,Kern,2008,0,819891,0
+Botulism- Wound,Kern,2009,1,831134,0.12
+Botulism- Wound,Kern,2010,0,841158,0
+Botulism- Wound,Kern,2011,0,848880,0
+Botulism- Wound,Kern,2012,0,855974,0
+Botulism- Wound,Kern,2013,0,865511,0
+Botulism- Wound,Kern,2014,1,872322,0.115
+Dengue,Kern,2001,0,679674,0
+Dengue,Kern,2002,0,696504,0
+Dengue,Kern,2003,0,717797,0
+Dengue,Kern,2004,0,740022,0
+Dengue,Kern,2005,0,761972,0
+Dengue,Kern,2006,0,786220,0
+Dengue,Kern,2007,0,805798,0
+Dengue,Kern,2008,0,819891,0
+Dengue,Kern,2009,1,831134,0.12
+Dengue,Kern,2010,1,841158,0.119
+Dengue,Kern,2011,0,848880,0
+Dengue,Kern,2012,0,855974,0
+Dengue,Kern,2013,2,865511,0.231
+Dengue,Kern,2014,3,872322,0.344
+Gonorrhea,Kern,2001,845,679674,124.324
+Gonorrhea,Kern,2002,801,696504,115.003
+Gonorrhea,Kern,2003,769,717797,107.133
+Gonorrhea,Kern,2004,963,740022,130.131
+Gonorrhea,Kern,2005,1249,761972,163.917
+Gonorrhea,Kern,2006,1275,786220,162.168
+Gonorrhea,Kern,2007,1136,805798,140.978
+Gonorrhea,Kern,2008,878,819891,107.087
+Gonorrhea,Kern,2009,826,831134,99.382
+Gonorrhea,Kern,2010,970,841158,115.317
+Gonorrhea,Kern,2011,870,848880,102.488
+Gonorrhea,Kern,2012,1271,855974,148.486
+Gonorrhea,Kern,2013,1567,865511,181.049
+Gonorrhea,Kern,2014,1542,872322,176.77
+Pertussis,Kern,2001,7,679674,1.03
+Pertussis,Kern,2002,18,696504,2.584
+Pertussis,Kern,2003,15,717797,2.09
+Pertussis,Kern,2004,38,740022,5.135
+Pertussis,Kern,2005,60,761972,7.874
+Pertussis,Kern,2006,45,786220,5.724
+Pertussis,Kern,2007,5,805798,0.621
+Pertussis,Kern,2008,8,819891,0.976
+Pertussis,Kern,2009,8,831134,0.963
+Pertussis,Kern,2010,376,841158,44.7
+Pertussis,Kern,2011,49,848880,5.772
+Pertussis,Kern,2012,2,855974,0.234
+Pertussis,Kern,2013,31,865511,3.582
+Pertussis,Kern,2014,166,872322,19.03
+Botulism- Wound,Kings,2001,0,132441,0
+Botulism- Wound,Kings,2002,0,134664,0
+Botulism- Wound,Kings,2003,0,138772,0
+Botulism- Wound,Kings,2004,0,142617,0
+Botulism- Wound,Kings,2005,0,144601,0
+Botulism- Wound,Kings,2006,0,147496,0
+Botulism- Wound,Kings,2007,0,150378,0
+Botulism- Wound,Kings,2008,0,151834,0
+Botulism- Wound,Kings,2009,0,151794,0
+Botulism- Wound,Kings,2010,0,152693,0
+Botulism- Wound,Kings,2011,0,151685,0
+Botulism- Wound,Kings,2012,0,150643,0
+Botulism- Wound,Kings,2013,0,150507,0
+Dengue,Kings,2001,0,132441,0
+Dengue,Kings,2002,0,134664,0
+Dengue,Kings,2003,0,138772,0
+Dengue,Kings,2004,0,142617,0
+Dengue,Kings,2005,0,144601,0
+Dengue,Kings,2006,0,147496,0
+Dengue,Kings,2007,0,150378,0
+Dengue,Kings,2008,0,151834,0
+Dengue,Kings,2009,0,151794,0
+Dengue,Kings,2010,0,152693,0
+Dengue,Kings,2011,0,151685,0
+Dengue,Kings,2012,0,150643,0
+Dengue,Kings,2013,2,150507,1.329
+Gonorrhea,Kings,2001,49,132441,36.998
+Gonorrhea,Kings,2002,49,134664,36.387
+Gonorrhea,Kings,2003,88,138772,63.413
+Gonorrhea,Kings,2004,116,142617,81.337
+Gonorrhea,Kings,2005,122,144601,84.37
+Gonorrhea,Kings,2006,107,147496,72.544
+Gonorrhea,Kings,2007,98,150378,65.169
+Gonorrhea,Kings,2008,81,151834,53.348
+Gonorrhea,Kings,2009,37,151794,24.375
+Gonorrhea,Kings,2010,22,152693,14.408
+Gonorrhea,Kings,2011,42,151685,27.689
+Gonorrhea,Kings,2012,44,150643,29.208
+Gonorrhea,Kings,2013,91,150507,60.462
+Gonorrhea,Kings,2014,149,149788,99.474
+Pertussis,Kings,2001,1,132441,0.755
+Pertussis,Kings,2002,2,134664,1.485
+Pertussis,Kings,2003,2,138772,1.441
+Pertussis,Kings,2004,0,142617,0
+Pertussis,Kings,2005,5,144601,3.458
+Pertussis,Kings,2006,1,147496,0.678
+Pertussis,Kings,2007,0,150378,0
+Pertussis,Kings,2008,0,151834,0
+Pertussis,Kings,2009,8,151794,5.27
+Pertussis,Kings,2010,26,152693,17.028
+Pertussis,Kings,2011,6,151685,3.956
+Pertussis,Kings,2012,0,150643,0
+Pertussis,Kings,2013,2,150507,1.329
+Pertussis,Kings,2014,16,149788,10.682
+Botulism- Wound,Lake,2001,0,60046,0
+Botulism- Wound,Lake,2002,0,61005,0
+Botulism- Wound,Lake,2003,0,61981,0
+Botulism- Wound,Lake,2004,0,62633,0
+Botulism- Wound,Lake,2005,0,63107,0
+Botulism- Wound,Lake,2006,0,63792,0
+Botulism- Wound,Lake,2007,0,63986,0
+Botulism- Wound,Lake,2008,0,64370,0
+Botulism- Wound,Lake,2009,0,64396,0
+Botulism- Wound,Lake,2010,0,64602,0
+Botulism- Wound,Lake,2011,0,64411,0
+Botulism- Wound,Lake,2012,0,64204,0
+Botulism- Wound,Lake,2013,0,64209,0
+Dengue,Lake,2001,0,60046,0
+Dengue,Lake,2002,0,61005,0
+Dengue,Lake,2003,0,61981,0
+Dengue,Lake,2004,0,62633,0
+Dengue,Lake,2005,0,63107,0
+Dengue,Lake,2006,0,63792,0
+Dengue,Lake,2007,0,63986,0
+Dengue,Lake,2008,0,64370,0
+Dengue,Lake,2009,0,64396,0
+Dengue,Lake,2010,0,64602,0
+Dengue,Lake,2011,0,64411,0
+Dengue,Lake,2012,0,64204,0
+Dengue,Lake,2013,0,64209,0
+Gonorrhea,Lake,2001,4,60046,6.662
+Gonorrhea,Lake,2002,0,61005,0
+Gonorrhea,Lake,2003,2,61981,3.227
+Gonorrhea,Lake,2004,14,62633,22.352
+Gonorrhea,Lake,2005,22,63107,34.861
+Gonorrhea,Lake,2006,11,63792,17.244
+Gonorrhea,Lake,2007,17,63986,26.568
+Gonorrhea,Lake,2008,1,64370,1.554
+Gonorrhea,Lake,2009,38,64396,59.01
+Gonorrhea,Lake,2010,28,64602,43.342
+Gonorrhea,Lake,2011,42,64411,65.206
+Gonorrhea,Lake,2012,53,64204,82.549
+Gonorrhea,Lake,2013,25,64209,38.935
+Gonorrhea,Lake,2014,67,64744,103.484
+Pertussis,Lake,2001,0,60046,0
+Pertussis,Lake,2002,1,61005,1.639
+Pertussis,Lake,2003,3,61981,4.84
+Pertussis,Lake,2004,0,62633,0
+Pertussis,Lake,2005,0,63107,0
+Pertussis,Lake,2006,7,63792,10.973
+Pertussis,Lake,2007,3,63986,4.689
+Pertussis,Lake,2008,0,64370,0
+Pertussis,Lake,2009,0,64396,0
+Pertussis,Lake,2010,5,64602,7.74
+Pertussis,Lake,2011,3,64411,4.658
+Pertussis,Lake,2012,2,64204,3.115
+Pertussis,Lake,2013,3,64209,4.672
+Pertussis,Lake,2014,3,64744,4.634
+Botulism- Wound,Lassen,2001,0,33650,0
+Botulism- Wound,Lassen,2002,0,33603,0
+Botulism- Wound,Lassen,2003,0,34053,0
+Botulism- Wound,Lassen,2004,0,34574,0
+Botulism- Wound,Lassen,2005,0,34528,0
+Botulism- Wound,Lassen,2006,0,35011,0
+Botulism- Wound,Lassen,2007,0,35749,0
+Botulism- Wound,Lassen,2008,0,35120,0
+Botulism- Wound,Lassen,2009,0,34773,0
+Botulism- Wound,Lassen,2010,0,35145,0
+Botulism- Wound,Lassen,2011,0,34677,0
+Botulism- Wound,Lassen,2012,0,33719,0
+Botulism- Wound,Lassen,2013,0,33686,0
+Dengue,Lassen,2001,0,33650,0
+Dengue,Lassen,2002,0,33603,0
+Dengue,Lassen,2003,0,34053,0
+Dengue,Lassen,2004,0,34574,0
+Dengue,Lassen,2005,0,34528,0
+Dengue,Lassen,2006,0,35011,0
+Dengue,Lassen,2007,0,35749,0
+Dengue,Lassen,2008,0,35120,0
+Dengue,Lassen,2009,0,34773,0
+Dengue,Lassen,2010,0,35145,0
+Dengue,Lassen,2011,0,34677,0
+Dengue,Lassen,2012,1,33719,2.966
+Dengue,Lassen,2013,0,33686,0
+Gonorrhea,Lassen,2001,2,33650,5.944
+Gonorrhea,Lassen,2002,2,33603,5.952
+Gonorrhea,Lassen,2003,4,34053,11.746
+Gonorrhea,Lassen,2004,11,34574,31.816
+Gonorrhea,Lassen,2005,12,34528,34.754
+Gonorrhea,Lassen,2006,3,35011,8.569
+Gonorrhea,Lassen,2007,4,35749,11.189
+Gonorrhea,Lassen,2008,2,35120,5.695
+Gonorrhea,Lassen,2009,1,34773,2.876
+Gonorrhea,Lassen,2010,0,35145,0
+Gonorrhea,Lassen,2011,5,34677,14.419
+Gonorrhea,Lassen,2012,5,33719,14.828
+Gonorrhea,Lassen,2013,5,33686,14.843
+Gonorrhea,Lassen,2014,12,33613,35.7
+Pertussis,Lassen,2001,0,33650,0
+Pertussis,Lassen,2002,1,33603,2.976
+Pertussis,Lassen,2003,0,34053,0
+Pertussis,Lassen,2004,1,34574,2.892
+Pertussis,Lassen,2005,1,34528,2.896
+Pertussis,Lassen,2006,0,35011,0
+Pertussis,Lassen,2007,0,35749,0
+Pertussis,Lassen,2008,2,35120,5.695
+Pertussis,Lassen,2009,0,34773,0
+Pertussis,Lassen,2010,1,35145,2.845
+Pertussis,Lassen,2011,0,34677,0
+Pertussis,Lassen,2012,0,33719,0
+Pertussis,Lassen,2013,0,33686,0
+Pertussis,Lassen,2014,5,33613,14.875
+Botulism- Wound,Los Angeles,2001,1,9637356,0.01
+Botulism- Wound,Los Angeles,2002,2,9724013,0.021
+Botulism- Wound,Los Angeles,2003,0,9792604,0
+Botulism- Wound,Los Angeles,2004,3,9824093,0.031
+Botulism- Wound,Los Angeles,2005,6,9811137,0.061
+Botulism- Wound,Los Angeles,2006,3,9788892,0.031
+Botulism- Wound,Los Angeles,2007,1,9775448,0.01
+Botulism- Wound,Los Angeles,2008,5,9798366,0.051
+Botulism- Wound,Los Angeles,2009,1,9806784,0.01
+Botulism- Wound,Los Angeles,2010,2,9826799,0.02
+Botulism- Wound,Los Angeles,2011,1,9863993,0.01
+Botulism- Wound,Los Angeles,2012,1,9948521,0.01
+Botulism- Wound,Los Angeles,2013,1,10014849,0.01
+Dengue,Los Angeles,2001,5,9637356,0.052
+Dengue,Los Angeles,2002,1,9724013,0.01
+Dengue,Los Angeles,2003,1,9792604,0.01
+Dengue,Los Angeles,2004,0,9824093,0
+Dengue,Los Angeles,2005,3,9811137,0.031
+Dengue,Los Angeles,2006,3,9788892,0.031
+Dengue,Los Angeles,2007,1,9775448,0.01
+Dengue,Los Angeles,2008,1,9798366,0.01
+Dengue,Los Angeles,2009,3,9806784,0.031
+Dengue,Los Angeles,2010,32,9826799,0.326
+Dengue,Los Angeles,2011,12,9863993,0.122
+Dengue,Los Angeles,2012,15,9948521,0.151
+Dengue,Los Angeles,2013,25,10014849,0.25
+Dengue,Los Angeles,2014,36,10070624,0.357
+Gonorrhea,Los Angeles,2001,8448,9637356,87.659
+Gonorrhea,Los Angeles,2002,8428,9724013,86.672
+Gonorrhea,Los Angeles,2003,8743,9792604,89.282
+Gonorrhea,Los Angeles,2004,10395,9824093,105.811
+Gonorrhea,Los Angeles,2005,11290,9811137,115.073
+Gonorrhea,Los Angeles,2006,11171,9788892,114.119
+Gonorrhea,Los Angeles,2007,10061,9775448,102.921
+Gonorrhea,Los Angeles,2008,8894,9798366,90.77
+Gonorrhea,Los Angeles,2009,9040,9806784,92.181
+Gonorrhea,Los Angeles,2010,10022,9826799,101.986
+Gonorrhea,Los Angeles,2011,10088,9863993,102.271
+Gonorrhea,Los Angeles,2012,11963,9948521,120.249
+Gonorrhea,Los Angeles,2013,13068,10014849,130.486
+Gonorrhea,Los Angeles,2014,15135,10070624,150.289
+Pertussis,Los Angeles,2001,113,9637356,1.173
+Pertussis,Los Angeles,2002,183,9724013,1.882
+Pertussis,Los Angeles,2003,141,9792604,1.44
+Pertussis,Los Angeles,2004,175,9824093,1.781
+Pertussis,Los Angeles,2005,491,9811137,5.005
+Pertussis,Los Angeles,2006,160,9788892,1.635
+Pertussis,Los Angeles,2007,72,9775448,0.737
+Pertussis,Los Angeles,2008,84,9798366,0.857
+Pertussis,Los Angeles,2009,172,9806784,1.754
+Pertussis,Los Angeles,2010,1395,9826799,14.196
+Pertussis,Los Angeles,2011,644,9863993,6.529
+Pertussis,Los Angeles,2012,214,9948521,2.151
+Pertussis,Los Angeles,2013,361,10014849,3.605
+Pertussis,Los Angeles,2014,2204,10070624,21.885
+Botulism- Wound,Madera,2001,0,126456,0
+Botulism- Wound,Madera,2002,0,128484,0
+Botulism- Wound,Madera,2003,0,132814,0
+Botulism- Wound,Madera,2004,0,136488,0
+Botulism- Wound,Madera,2005,0,139868,0
+Botulism- Wound,Madera,2006,0,143528,0
+Botulism- Wound,Madera,2007,0,146806,0
+Botulism- Wound,Madera,2008,0,149114,0
+Botulism- Wound,Madera,2009,0,150151,0
+Botulism- Wound,Madera,2010,0,151318,0
+Botulism- Wound,Madera,2011,0,152019,0
+Botulism- Wound,Madera,2012,0,151242,0
+Botulism- Wound,Madera,2013,0,152857,0
+Dengue,Madera,2001,0,126456,0
+Dengue,Madera,2002,0,128484,0
+Dengue,Madera,2003,0,132814,0
+Dengue,Madera,2004,0,136488,0
+Dengue,Madera,2005,0,139868,0
+Dengue,Madera,2006,0,143528,0
+Dengue,Madera,2007,0,146806,0
+Dengue,Madera,2008,0,149114,0
+Dengue,Madera,2009,0,150151,0
+Dengue,Madera,2010,0,151318,0
+Dengue,Madera,2011,0,152019,0
+Dengue,Madera,2012,0,151242,0
+Dengue,Madera,2013,0,152857,0
+Gonorrhea,Madera,2001,36,126456,28.468
+Gonorrhea,Madera,2002,56,128484,43.585
+Gonorrhea,Madera,2003,94,132814,70.776
+Gonorrhea,Madera,2004,168,136488,123.088
+Gonorrhea,Madera,2005,127,139868,90.8
+Gonorrhea,Madera,2006,139,143528,96.845
+Gonorrhea,Madera,2007,114,146806,77.654
+Gonorrhea,Madera,2008,63,149114,42.25
+Gonorrhea,Madera,2009,54,150151,35.964
+Gonorrhea,Madera,2010,83,151318,54.851
+Gonorrhea,Madera,2011,74,152019,48.678
+Gonorrhea,Madera,2012,110,151242,72.731
+Gonorrhea,Madera,2013,138,152857,90.28
+Gonorrhea,Madera,2014,161,154278,104.357
+Pertussis,Madera,2001,2,126456,1.582
+Pertussis,Madera,2002,3,128484,2.335
+Pertussis,Madera,2003,2,132814,1.506
+Pertussis,Madera,2004,4,136488,2.931
+Pertussis,Madera,2005,83,139868,59.342
+Pertussis,Madera,2006,11,143528,7.664
+Pertussis,Madera,2007,2,146806,1.362
+Pertussis,Madera,2008,1,149114,0.671
+Pertussis,Madera,2009,8,150151,5.328
+Pertussis,Madera,2010,120,151318,79.303
+Pertussis,Madera,2011,8,152019,5.263
+Pertussis,Madera,2012,0,151242,0
+Pertussis,Madera,2013,10,152857,6.542
+Pertussis,Madera,2014,47,154278,30.464
+Botulism- Wound,Marin,2001,0,247731,0
+Botulism- Wound,Marin,2002,0,247382,0
+Botulism- Wound,Marin,2003,0,247280,0
+Botulism- Wound,Marin,2004,0,246684,0
+Botulism- Wound,Marin,2005,0,246686,0
+Botulism- Wound,Marin,2006,0,247247,0
+Botulism- Wound,Marin,2007,0,248802,0
+Botulism- Wound,Marin,2008,0,250288,0
+Botulism- Wound,Marin,2009,0,251230,0
+Botulism- Wound,Marin,2010,0,252698,0
+Botulism- Wound,Marin,2011,1,254282,0.393
+Botulism- Wound,Marin,2012,0,253892,0
+Botulism- Wound,Marin,2013,0,255778,0
+Dengue,Marin,2001,0,247731,0
+Dengue,Marin,2002,0,247382,0
+Dengue,Marin,2003,0,247280,0
+Dengue,Marin,2004,0,246684,0
+Dengue,Marin,2005,0,246686,0
+Dengue,Marin,2006,0,247247,0
+Dengue,Marin,2007,0,248802,0
+Dengue,Marin,2008,0,250288,0
+Dengue,Marin,2009,0,251230,0
+Dengue,Marin,2010,1,252698,0.396
+Dengue,Marin,2011,0,254282,0
+Dengue,Marin,2012,0,253892,0
+Dengue,Marin,2013,4,255778,1.564
+Dengue,Marin,2014,1,258324,0.387
+Gonorrhea,Marin,2001,72,247731,29.064
+Gonorrhea,Marin,2002,52,247382,21.02
+Gonorrhea,Marin,2003,55,247280,22.242
+Gonorrhea,Marin,2004,52,246684,21.08
+Gonorrhea,Marin,2005,60,246686,24.322
+Gonorrhea,Marin,2006,102,247247,41.254
+Gonorrhea,Marin,2007,78,248802,31.35
+Gonorrhea,Marin,2008,67,250288,26.769
+Gonorrhea,Marin,2009,74,251230,29.455
+Gonorrhea,Marin,2010,66,252698,26.118
+Gonorrhea,Marin,2011,72,254282,28.315
+Gonorrhea,Marin,2012,82,253892,32.297
+Gonorrhea,Marin,2013,84,255778,32.841
+Gonorrhea,Marin,2014,84,258324,32.517
+Pertussis,Marin,2001,4,247731,1.615
+Pertussis,Marin,2002,15,247382,6.063
+Pertussis,Marin,2003,2,247280,0.809
+Pertussis,Marin,2004,24,246684,9.729
+Pertussis,Marin,2005,13,246686,5.27
+Pertussis,Marin,2006,41,247247,16.583
+Pertussis,Marin,2007,14,248802,5.627
+Pertussis,Marin,2008,14,250288,5.594
+Pertussis,Marin,2009,14,251230,5.573
+Pertussis,Marin,2010,351,252698,138.901
+Pertussis,Marin,2011,26,254282,10.225
+Pertussis,Marin,2012,5,253892,1.969
+Pertussis,Marin,2013,184,255778,71.937
+Pertussis,Marin,2014,272,258324,105.294
+Botulism- Wound,Mariposa,2001,0,17269,0
+Botulism- Wound,Mariposa,2002,0,17461,0
+Botulism- Wound,Mariposa,2003,0,17764,0
+Botulism- Wound,Mariposa,2004,0,17872,0
+Botulism- Wound,Mariposa,2005,0,18057,0
+Botulism- Wound,Mariposa,2006,0,18244,0
+Botulism- Wound,Mariposa,2007,0,18376,0
+Botulism- Wound,Mariposa,2008,0,18385,0
+Botulism- Wound,Mariposa,2009,0,18281,0
+Botulism- Wound,Mariposa,2010,0,18194,0
+Botulism- Wound,Mariposa,2011,0,17973,0
+Botulism- Wound,Mariposa,2012,0,17959,0
+Botulism- Wound,Mariposa,2013,0,17890,0
+Dengue,Mariposa,2001,0,17269,0
+Dengue,Mariposa,2002,0,17461,0
+Dengue,Mariposa,2003,0,17764,0
+Dengue,Mariposa,2004,0,17872,0
+Dengue,Mariposa,2005,0,18057,0
+Dengue,Mariposa,2006,0,18244,0
+Dengue,Mariposa,2007,0,18376,0
+Dengue,Mariposa,2008,0,18385,0
+Dengue,Mariposa,2009,0,18281,0
+Dengue,Mariposa,2010,0,18194,0
+Dengue,Mariposa,2011,0,17973,0
+Dengue,Mariposa,2012,0,17959,0
+Dengue,Mariposa,2013,0,17890,0
+Gonorrhea,Mariposa,2001,2,17269,11.581
+Gonorrhea,Mariposa,2002,6,17461,34.362
+Gonorrhea,Mariposa,2003,1,17764,5.629
+Gonorrhea,Mariposa,2004,2,17872,11.191
+Gonorrhea,Mariposa,2005,8,18057,44.304
+Gonorrhea,Mariposa,2006,3,18244,16.444
+Gonorrhea,Mariposa,2007,3,18376,16.326
+Gonorrhea,Mariposa,2008,2,18385,10.878
+Gonorrhea,Mariposa,2009,0,18281,0
+Gonorrhea,Mariposa,2010,1,18194,5.496
+Gonorrhea,Mariposa,2011,0,17973,0
+Gonorrhea,Mariposa,2012,4,17959,22.273
+Gonorrhea,Mariposa,2013,3,17890,16.769
+Gonorrhea,Mariposa,2014,6,17864,33.587
+Pertussis,Mariposa,2001,0,17269,0
+Pertussis,Mariposa,2002,2,17461,11.454
+Pertussis,Mariposa,2003,0,17764,0
+Pertussis,Mariposa,2004,0,17872,0
+Pertussis,Mariposa,2005,6,18057,33.228
+Pertussis,Mariposa,2006,1,18244,5.481
+Pertussis,Mariposa,2007,0,18376,0
+Pertussis,Mariposa,2008,0,18385,0
+Pertussis,Mariposa,2009,0,18281,0
+Pertussis,Mariposa,2010,10,18194,54.963
+Pertussis,Mariposa,2011,1,17973,5.564
+Pertussis,Mariposa,2012,0,17959,0
+Pertussis,Mariposa,2013,0,17890,0
+Botulism- Wound,Mendocino,2001,1,87140,1.148
+Botulism- Wound,Mendocino,2002,0,87507,0
+Botulism- Wound,Mendocino,2003,0,88017,0
+Botulism- Wound,Mendocino,2004,0,88239,0
+Botulism- Wound,Mendocino,2005,0,88016,0
+Botulism- Wound,Mendocino,2006,0,87584,0
+Botulism- Wound,Mendocino,2007,0,87646,0
+Botulism- Wound,Mendocino,2008,1,87782,1.139
+Botulism- Wound,Mendocino,2009,0,87569,0
+Botulism- Wound,Mendocino,2010,0,87917,0
+Botulism- Wound,Mendocino,2011,0,88048,0
+Botulism- Wound,Mendocino,2012,0,88550,0
+Botulism- Wound,Mendocino,2013,0,88281,0
+Dengue,Mendocino,2001,0,87140,0
+Dengue,Mendocino,2002,0,87507,0
+Dengue,Mendocino,2003,0,88017,0
+Dengue,Mendocino,2004,0,88239,0
+Dengue,Mendocino,2005,0,88016,0
+Dengue,Mendocino,2006,0,87584,0
+Dengue,Mendocino,2007,0,87646,0
+Dengue,Mendocino,2008,0,87782,0
+Dengue,Mendocino,2009,1,87569,1.142
+Dengue,Mendocino,2010,0,87917,0
+Dengue,Mendocino,2011,0,88048,0
+Dengue,Mendocino,2012,0,88550,0
+Dengue,Mendocino,2013,1,88281,1.133
+Gonorrhea,Mendocino,2001,12,87140,13.771
+Gonorrhea,Mendocino,2002,13,87507,14.856
+Gonorrhea,Mendocino,2003,21,88017,23.859
+Gonorrhea,Mendocino,2004,15,88239,16.999
+Gonorrhea,Mendocino,2005,16,88016,18.179
+Gonorrhea,Mendocino,2006,28,87584,31.969
+Gonorrhea,Mendocino,2007,19,87646,21.678
+Gonorrhea,Mendocino,2008,12,87782,13.67
+Gonorrhea,Mendocino,2009,13,87569,14.845
+Gonorrhea,Mendocino,2010,15,87917,17.062
+Gonorrhea,Mendocino,2011,22,88048,24.986
+Gonorrhea,Mendocino,2012,19,88550,21.457
+Gonorrhea,Mendocino,2013,14,88281,15.858
+Gonorrhea,Mendocino,2014,55,88545,62.115
+Pertussis,Mendocino,2001,1,87140,1.148
+Pertussis,Mendocino,2002,3,87507,3.428
+Pertussis,Mendocino,2003,3,88017,3.408
+Pertussis,Mendocino,2004,2,88239,2.267
+Pertussis,Mendocino,2005,19,88016,21.587
+Pertussis,Mendocino,2006,5,87584,5.709
+Pertussis,Mendocino,2007,3,87646,3.423
+Pertussis,Mendocino,2008,1,87782,1.139
+Pertussis,Mendocino,2009,5,87569,5.71
+Pertussis,Mendocino,2010,27,87917,30.711
+Pertussis,Mendocino,2011,3,88048,3.407
+Pertussis,Mendocino,2012,1,88550,1.129
+Pertussis,Mendocino,2013,6,88281,6.796
+Pertussis,Mendocino,2014,10,88545,11.294
+Botulism- Wound,Merced,2001,0,217319,0
+Botulism- Wound,Merced,2002,0,222733,0
+Botulism- Wound,Merced,2003,0,229182,0
+Botulism- Wound,Merced,2004,0,235549,0
+Botulism- Wound,Merced,2005,0,240600,0
+Botulism- Wound,Merced,2006,0,245555,0
+Botulism- Wound,Merced,2007,0,249538,0
+Botulism- Wound,Merced,2008,0,251932,0
+Botulism- Wound,Merced,2009,0,254123,0
+Botulism- Wound,Merced,2010,0,255886,0
+Botulism- Wound,Merced,2011,0,259186,0
+Botulism- Wound,Merced,2012,0,261002,0
+Botulism- Wound,Merced,2013,0,262336,0
+Dengue,Merced,2001,0,217319,0
+Dengue,Merced,2002,0,222733,0
+Dengue,Merced,2003,0,229182,0
+Dengue,Merced,2004,0,235549,0
+Dengue,Merced,2005,0,240600,0
+Dengue,Merced,2006,0,245555,0
+Dengue,Merced,2007,0,249538,0
+Dengue,Merced,2008,0,251932,0
+Dengue,Merced,2009,0,254123,0
+Dengue,Merced,2010,0,255886,0
+Dengue,Merced,2011,0,259186,0
+Dengue,Merced,2012,0,261002,0
+Dengue,Merced,2013,0,262336,0
+Gonorrhea,Merced,2001,58,217319,26.689
+Gonorrhea,Merced,2002,70,222733,31.428
+Gonorrhea,Merced,2003,144,229182,62.832
+Gonorrhea,Merced,2004,213,235549,90.427
+Gonorrhea,Merced,2005,264,240600,109.726
+Gonorrhea,Merced,2006,235,245555,95.702
+Gonorrhea,Merced,2007,149,249538,59.71
+Gonorrhea,Merced,2008,84,251932,33.342
+Gonorrhea,Merced,2009,72,254123,28.333
+Gonorrhea,Merced,2010,76,255886,29.701
+Gonorrhea,Merced,2011,61,259186,23.535
+Gonorrhea,Merced,2012,99,261002,37.931
+Gonorrhea,Merced,2013,141,262336,53.748
+Gonorrhea,Merced,2014,185,265069,69.793
+Pertussis,Merced,2001,0,217319,0
+Pertussis,Merced,2002,8,222733,3.592
+Pertussis,Merced,2003,2,229182,0.873
+Pertussis,Merced,2004,4,235549,1.698
+Pertussis,Merced,2005,16,240600,6.65
+Pertussis,Merced,2006,20,245555,8.145
+Pertussis,Merced,2007,4,249538,1.603
+Pertussis,Merced,2008,3,251932,1.191
+Pertussis,Merced,2009,7,254123,2.755
+Pertussis,Merced,2010,131,255886,51.195
+Pertussis,Merced,2011,27,259186,10.417
+Pertussis,Merced,2012,0,261002,0
+Pertussis,Merced,2013,1,262336,0.381
+Pertussis,Merced,2014,9,265069,3.395
+Botulism- Wound,Modoc,2001,0,9434,0
+Botulism- Wound,Modoc,2002,0,9400,0
+Botulism- Wound,Modoc,2003,0,9511,0
+Botulism- Wound,Modoc,2004,0,9602,0
+Botulism- Wound,Modoc,2005,0,9588,0
+Botulism- Wound,Modoc,2006,0,9639,0
+Botulism- Wound,Modoc,2007,0,9590,0
+Botulism- Wound,Modoc,2008,0,9623,0
+Botulism- Wound,Modoc,2009,0,9632,0
+Botulism- Wound,Modoc,2010,0,9649,0
+Botulism- Wound,Modoc,2011,0,9568,0
+Botulism- Wound,Modoc,2012,0,9516,0
+Botulism- Wound,Modoc,2013,0,9485,0
+Dengue,Modoc,2001,0,9434,0
+Dengue,Modoc,2002,0,9400,0
+Dengue,Modoc,2003,0,9511,0
+Dengue,Modoc,2004,0,9602,0
+Dengue,Modoc,2005,0,9588,0
+Dengue,Modoc,2006,0,9639,0
+Dengue,Modoc,2007,0,9590,0
+Dengue,Modoc,2008,0,9623,0
+Dengue,Modoc,2009,0,9632,0
+Dengue,Modoc,2010,0,9649,0
+Dengue,Modoc,2011,0,9568,0
+Dengue,Modoc,2012,0,9516,0
+Dengue,Modoc,2013,0,9485,0
+Gonorrhea,Modoc,2001,1,9434,10.6
+Gonorrhea,Modoc,2002,0,9400,0
+Gonorrhea,Modoc,2003,0,9511,0
+Gonorrhea,Modoc,2004,0,9602,0
+Gonorrhea,Modoc,2005,4,9588,41.719
+Gonorrhea,Modoc,2006,1,9639,10.375
+Gonorrhea,Modoc,2007,10,9590,104.275
+Gonorrhea,Modoc,2008,1,9623,10.392
+Gonorrhea,Modoc,2009,0,9632,0
+Gonorrhea,Modoc,2010,0,9649,0
+Gonorrhea,Modoc,2011,0,9568,0
+Gonorrhea,Modoc,2012,2,9516,21.017
+Gonorrhea,Modoc,2013,2,9485,21.086
+Gonorrhea,Modoc,2014,1,9417,10.619
+Pertussis,Modoc,2001,0,9434,0
+Pertussis,Modoc,2002,0,9400,0
+Pertussis,Modoc,2003,0,9511,0
+Pertussis,Modoc,2004,0,9602,0
+Pertussis,Modoc,2005,0,9588,0
+Pertussis,Modoc,2006,0,9639,0
+Pertussis,Modoc,2007,0,9590,0
+Pertussis,Modoc,2008,0,9623,0
+Pertussis,Modoc,2009,0,9632,0
+Pertussis,Modoc,2010,0,9649,0
+Pertussis,Modoc,2011,0,9568,0
+Pertussis,Modoc,2012,0,9516,0
+Pertussis,Modoc,2013,0,9485,0
+Pertussis,Modoc,2014,6,9417,63.715
+Botulism- Wound,Mono,2001,0,13213,0
+Botulism- Wound,Mono,2002,0,13383,0
+Botulism- Wound,Mono,2003,0,13574,0
+Botulism- Wound,Mono,2004,0,13726,0
+Botulism- Wound,Mono,2005,0,13799,0
+Botulism- Wound,Mono,2006,0,14151,0
+Botulism- Wound,Mono,2007,0,14212,0
+Botulism- Wound,Mono,2008,0,14073,0
+Botulism- Wound,Mono,2009,0,14075,0
+Botulism- Wound,Mono,2010,0,14234,0
+Botulism- Wound,Mono,2011,0,14301,0
+Botulism- Wound,Mono,2012,0,14393,0
+Botulism- Wound,Mono,2013,0,14477,0
+Dengue,Mono,2001,0,13213,0
+Dengue,Mono,2002,0,13383,0
+Dengue,Mono,2003,0,13574,0
+Dengue,Mono,2004,0,13726,0
+Dengue,Mono,2005,0,13799,0
+Dengue,Mono,2006,0,14151,0
+Dengue,Mono,2007,0,14212,0
+Dengue,Mono,2008,0,14073,0
+Dengue,Mono,2009,0,14075,0
+Dengue,Mono,2010,0,14234,0
+Dengue,Mono,2011,0,14301,0
+Dengue,Mono,2012,0,14393,0
+Dengue,Mono,2013,0,14477,0
+Gonorrhea,Mono,2001,1,13213,7.568
+Gonorrhea,Mono,2002,0,13383,0
+Gonorrhea,Mono,2003,0,13574,0
+Gonorrhea,Mono,2004,2,13726,14.571
+Gonorrhea,Mono,2005,2,13799,14.494
+Gonorrhea,Mono,2006,3,14151,21.2
+Gonorrhea,Mono,2007,1,14212,7.036
+Gonorrhea,Mono,2008,2,14073,14.212
+Gonorrhea,Mono,2009,0,14075,0
+Gonorrhea,Mono,2010,2,14234,14.051
+Gonorrhea,Mono,2011,0,14301,0
+Gonorrhea,Mono,2012,0,14393,0
+Gonorrhea,Mono,2013,5,14477,34.538
+Gonorrhea,Mono,2014,4,14560,27.473
+Pertussis,Mono,2001,0,13213,0
+Pertussis,Mono,2002,0,13383,0
+Pertussis,Mono,2003,0,13574,0
+Pertussis,Mono,2004,0,13726,0
+Pertussis,Mono,2005,0,13799,0
+Pertussis,Mono,2006,0,14151,0
+Pertussis,Mono,2007,0,14212,0
+Pertussis,Mono,2008,0,14073,0
+Pertussis,Mono,2009,0,14075,0
+Pertussis,Mono,2010,18,14234,126.458
+Pertussis,Mono,2011,2,14301,13.985
+Pertussis,Mono,2012,21,14393,145.904
+Pertussis,Mono,2013,2,14477,13.815
+Botulism- Wound,Monterey,2001,0,406264,0
+Botulism- Wound,Monterey,2002,0,408599,0
+Botulism- Wound,Monterey,2003,0,411941,0
+Botulism- Wound,Monterey,2004,0,411121,0
+Botulism- Wound,Monterey,2005,0,407974,0
+Botulism- Wound,Monterey,2006,0,405877,0
+Botulism- Wound,Monterey,2007,0,407896,0
+Botulism- Wound,Monterey,2008,0,410877,0
+Botulism- Wound,Monterey,2009,0,413590,0
+Botulism- Wound,Monterey,2010,0,416263,0
+Botulism- Wound,Monterey,2011,0,419905,0
+Botulism- Wound,Monterey,2012,0,421465,0
+Botulism- Wound,Monterey,2013,0,423943,0
+Dengue,Monterey,2001,0,406264,0
+Dengue,Monterey,2002,0,408599,0
+Dengue,Monterey,2003,0,411941,0
+Dengue,Monterey,2004,0,411121,0
+Dengue,Monterey,2005,3,407974,0.735
+Dengue,Monterey,2006,0,405877,0
+Dengue,Monterey,2007,1,407896,0.245
+Dengue,Monterey,2008,0,410877,0
+Dengue,Monterey,2009,0,413590,0
+Dengue,Monterey,2010,1,416263,0.24
+Dengue,Monterey,2011,1,419905,0.238
+Dengue,Monterey,2012,1,421465,0.237
+Dengue,Monterey,2013,0,423943,0
+Dengue,Monterey,2014,1,425365,0.235
+Gonorrhea,Monterey,2001,84,406264,20.676
+Gonorrhea,Monterey,2002,114,408599,27.9
+Gonorrhea,Monterey,2003,201,411941,48.793
+Gonorrhea,Monterey,2004,212,411121,51.566
+Gonorrhea,Monterey,2005,188,407974,46.081
+Gonorrhea,Monterey,2006,202,405877,49.769
+Gonorrhea,Monterey,2007,146,407896,35.793
+Gonorrhea,Monterey,2008,132,410877,32.126
+Gonorrhea,Monterey,2009,97,413590,23.453
+Gonorrhea,Monterey,2010,81,416263,19.459
+Gonorrhea,Monterey,2011,91,419905,21.672
+Gonorrhea,Monterey,2012,208,421465,49.352
+Gonorrhea,Monterey,2013,363,423943,85.625
+Gonorrhea,Monterey,2014,296,425365,69.587
+Pertussis,Monterey,2001,8,406264,1.969
+Pertussis,Monterey,2002,6,408599,1.468
+Pertussis,Monterey,2003,6,411941,1.457
+Pertussis,Monterey,2004,50,411121,12.162
+Pertussis,Monterey,2005,30,407974,7.353
+Pertussis,Monterey,2006,9,405877,2.217
+Pertussis,Monterey,2007,18,407896,4.413
+Pertussis,Monterey,2008,4,410877,0.974
+Pertussis,Monterey,2009,15,413590,3.627
+Pertussis,Monterey,2010,132,416263,31.711
+Pertussis,Monterey,2011,38,419905,9.05
+Pertussis,Monterey,2012,17,421465,4.034
+Pertussis,Monterey,2013,49,423943,11.558
+Pertussis,Monterey,2014,129,425365,30.327
+Botulism- Wound,Napa,2001,0,126188,0
+Botulism- Wound,Napa,2002,0,127942,0
+Botulism- Wound,Napa,2003,0,129422,0
+Botulism- Wound,Napa,2004,0,130204,0
+Botulism- Wound,Napa,2005,0,130740,0
+Botulism- Wound,Napa,2006,0,131920,0
+Botulism- Wound,Napa,2007,0,133155,0
+Botulism- Wound,Napa,2008,0,134786,0
+Botulism- Wound,Napa,2009,0,135664,0
+Botulism- Wound,Napa,2010,0,136811,0
+Botulism- Wound,Napa,2011,0,137653,0
+Botulism- Wound,Napa,2012,0,138019,0
+Botulism- Wound,Napa,2013,0,138932,0
+Dengue,Napa,2001,0,126188,0
+Dengue,Napa,2002,0,127942,0
+Dengue,Napa,2003,0,129422,0
+Dengue,Napa,2004,0,130204,0
+Dengue,Napa,2005,0,130740,0
+Dengue,Napa,2006,0,131920,0
+Dengue,Napa,2007,0,133155,0
+Dengue,Napa,2008,0,134786,0
+Dengue,Napa,2009,0,135664,0
+Dengue,Napa,2010,0,136811,0
+Dengue,Napa,2011,0,137653,0
+Dengue,Napa,2012,0,138019,0
+Dengue,Napa,2013,3,138932,2.159
+Dengue,Napa,2014,1,140348,0.713
+Gonorrhea,Napa,2001,15,126188,11.887
+Gonorrhea,Napa,2002,6,127942,4.69
+Gonorrhea,Napa,2003,10,129422,7.727
+Gonorrhea,Napa,2004,21,130204,16.129
+Gonorrhea,Napa,2005,34,130740,26.006
+Gonorrhea,Napa,2006,31,131920,23.499
+Gonorrhea,Napa,2007,20,133155,15.02
+Gonorrhea,Napa,2008,21,134786,15.58
+Gonorrhea,Napa,2009,14,135664,10.32
+Gonorrhea,Napa,2010,28,136811,20.466
+Gonorrhea,Napa,2011,24,137653,17.435
+Gonorrhea,Napa,2012,29,138019,21.012
+Gonorrhea,Napa,2013,37,138932,26.632
+Gonorrhea,Napa,2014,58,140348,41.326
+Pertussis,Napa,2001,2,126188,1.585
+Pertussis,Napa,2002,3,127942,2.345
+Pertussis,Napa,2003,3,129422,2.318
+Pertussis,Napa,2004,1,130204,0.768
+Pertussis,Napa,2005,6,130740,4.589
+Pertussis,Napa,2006,2,131920,1.516
+Pertussis,Napa,2007,2,133155,1.502
+Pertussis,Napa,2008,1,134786,0.742
+Pertussis,Napa,2009,14,135664,10.32
+Pertussis,Napa,2010,25,136811,18.273
+Pertussis,Napa,2011,11,137653,7.991
+Pertussis,Napa,2012,6,138019,4.347
+Pertussis,Napa,2013,14,138932,10.077
+Pertussis,Napa,2014,137,140348,97.615
+Botulism- Wound,Nevada,2001,0,93515,0
+Botulism- Wound,Nevada,2002,0,94580,0
+Botulism- Wound,Nevada,2003,0,95974,0
+Botulism- Wound,Nevada,2004,0,97107,0
+Botulism- Wound,Nevada,2005,0,97802,0
+Botulism- Wound,Nevada,2006,0,98334,0
+Botulism- Wound,Nevada,2007,0,98480,0
+Botulism- Wound,Nevada,2008,0,98680,0
+Botulism- Wound,Nevada,2009,0,98432,0
+Botulism- Wound,Nevada,2010,0,98625,0
+Botulism- Wound,Nevada,2011,0,98591,0
+Botulism- Wound,Nevada,2012,0,97920,0
+Botulism- Wound,Nevada,2013,0,97808,0
+Dengue,Nevada,2001,0,93515,0
+Dengue,Nevada,2002,0,94580,0
+Dengue,Nevada,2003,0,95974,0
+Dengue,Nevada,2004,0,97107,0
+Dengue,Nevada,2005,0,97802,0
+Dengue,Nevada,2006,0,98334,0
+Dengue,Nevada,2007,0,98480,0
+Dengue,Nevada,2008,0,98680,0
+Dengue,Nevada,2009,0,98432,0
+Dengue,Nevada,2010,1,98625,1.014
+Dengue,Nevada,2011,0,98591,0
+Dengue,Nevada,2012,0,97920,0
+Dengue,Nevada,2013,0,97808,0
+Gonorrhea,Nevada,2001,7,93515,7.485
+Gonorrhea,Nevada,2002,2,94580,2.115
+Gonorrhea,Nevada,2003,6,95974,6.252
+Gonorrhea,Nevada,2004,11,97107,11.328
+Gonorrhea,Nevada,2005,10,97802,10.225
+Gonorrhea,Nevada,2006,6,98334,6.102
+Gonorrhea,Nevada,2007,16,98480,16.247
+Gonorrhea,Nevada,2008,7,98680,7.094
+Gonorrhea,Nevada,2009,6,98432,6.096
+Gonorrhea,Nevada,2010,7,98625,7.098
+Gonorrhea,Nevada,2011,14,98591,14.2
+Gonorrhea,Nevada,2012,13,97920,13.276
+Gonorrhea,Nevada,2013,22,97808,22.493
+Gonorrhea,Nevada,2014,27,98235,27.485
+Pertussis,Nevada,2001,5,93515,5.347
+Pertussis,Nevada,2002,7,94580,7.401
+Pertussis,Nevada,2003,11,95974,11.461
+Pertussis,Nevada,2004,19,97107,19.566
+Pertussis,Nevada,2005,22,97802,22.494
+Pertussis,Nevada,2006,20,98334,20.339
+Pertussis,Nevada,2007,11,98480,11.17
+Pertussis,Nevada,2008,4,98680,4.054
+Pertussis,Nevada,2009,1,98432,1.016
+Pertussis,Nevada,2010,23,98625,23.321
+Pertussis,Nevada,2011,2,98591,2.029
+Pertussis,Nevada,2012,5,97920,5.106
+Pertussis,Nevada,2013,70,97808,71.569
+Pertussis,Nevada,2014,16,98235,16.287
+Botulism- Wound,Orange,2001,5,2889908,0.173
+Botulism- Wound,Orange,2002,2,2914438,0.069
+Botulism- Wound,Orange,2003,0,2939719,0
+Botulism- Wound,Orange,2004,1,2956482,0.034
+Botulism- Wound,Orange,2005,2,2957151,0.068
+Botulism- Wound,Orange,2006,7,2955433,0.237
+Botulism- Wound,Orange,2007,6,2965823,0.202
+Botulism- Wound,Orange,2008,1,2982788,0.034
+Botulism- Wound,Orange,2009,4,2998816,0.133
+Botulism- Wound,Orange,2010,1,3017248,0.033
+Botulism- Wound,Orange,2011,0,3046513,0
+Botulism- Wound,Orange,2012,0,3073540,0
+Botulism- Wound,Orange,2013,0,3099463,0
+Botulism- Wound,Orange,2014,1,3132681,0.032
+Dengue,Orange,2001,3,2889908,0.104
+Dengue,Orange,2002,0,2914438,0
+Dengue,Orange,2003,3,2939719,0.102
+Dengue,Orange,2004,0,2956482,0
+Dengue,Orange,2005,1,2957151,0.034
+Dengue,Orange,2006,1,2955433,0.034
+Dengue,Orange,2007,3,2965823,0.101
+Dengue,Orange,2008,2,2982788,0.067
+Dengue,Orange,2009,4,2998816,0.133
+Dengue,Orange,2010,5,3017248,0.166
+Dengue,Orange,2011,5,3046513,0.164
+Dengue,Orange,2012,4,3073540,0.13
+Dengue,Orange,2013,7,3099463,0.226
+Dengue,Orange,2014,15,3132681,0.479
+Gonorrhea,Orange,2001,647,2889908,22.388
+Gonorrhea,Orange,2002,726,2914438,24.91
+Gonorrhea,Orange,2003,883,2939719,30.037
+Gonorrhea,Orange,2004,927,2956482,31.355
+Gonorrhea,Orange,2005,1233,2957151,41.696
+Gonorrhea,Orange,2006,1031,2955433,34.885
+Gonorrhea,Orange,2007,974,2965823,32.841
+Gonorrhea,Orange,2008,878,2982788,29.436
+Gonorrhea,Orange,2009,750,2998816,25.01
+Gonorrhea,Orange,2010,1137,3017248,37.683
+Gonorrhea,Orange,2011,972,3046513,31.905
+Gonorrhea,Orange,2012,1182,3073540,38.457
+Gonorrhea,Orange,2013,1452,3099463,46.847
+Gonorrhea,Orange,2014,1796,3132681,57.331
+Pertussis,Orange,2001,36,2889908,1.246
+Pertussis,Orange,2002,93,2914438,3.191
+Pertussis,Orange,2003,82,2939719,2.789
+Pertussis,Orange,2004,107,2956482,3.619
+Pertussis,Orange,2005,108,2957151,3.652
+Pertussis,Orange,2006,55,2955433,1.861
+Pertussis,Orange,2007,30,2965823,1.012
+Pertussis,Orange,2008,29,2982788,0.972
+Pertussis,Orange,2009,93,2998816,3.101
+Pertussis,Orange,2010,499,3017248,16.538
+Pertussis,Orange,2011,142,3046513,4.661
+Pertussis,Orange,2012,74,3073540,2.408
+Pertussis,Orange,2013,117,3099463,3.775
+Pertussis,Orange,2014,447,3132681,14.269
+Botulism- Wound,Placer,2001,0,264925,0
+Botulism- Wound,Placer,2002,0,276817,0
+Botulism- Wound,Placer,2003,0,290655,0
+Botulism- Wound,Placer,2004,0,302815,0
+Botulism- Wound,Placer,2005,0,312630,0
+Botulism- Wound,Placer,2006,0,322270,0
+Botulism- Wound,Placer,2007,0,329719,0
+Botulism- Wound,Placer,2008,0,337914,0
+Botulism- Wound,Placer,2009,0,344088,0
+Botulism- Wound,Placer,2010,0,350272,0
+Botulism- Wound,Placer,2011,0,356200,0
+Botulism- Wound,Placer,2012,0,360098,0
+Botulism- Wound,Placer,2013,0,364724,0
+Dengue,Placer,2001,0,264925,0
+Dengue,Placer,2002,0,276817,0
+Dengue,Placer,2003,0,290655,0
+Dengue,Placer,2004,0,302815,0
+Dengue,Placer,2005,0,312630,0
+Dengue,Placer,2006,0,322270,0
+Dengue,Placer,2007,0,329719,0
+Dengue,Placer,2008,0,337914,0
+Dengue,Placer,2009,0,344088,0
+Dengue,Placer,2010,2,350272,0.571
+Dengue,Placer,2011,0,356200,0
+Dengue,Placer,2012,0,360098,0
+Dengue,Placer,2013,1,364724,0.274
+Gonorrhea,Placer,2001,21,264925,7.927
+Gonorrhea,Placer,2002,31,276817,11.199
+Gonorrhea,Placer,2003,53,290655,18.235
+Gonorrhea,Placer,2004,59,302815,19.484
+Gonorrhea,Placer,2005,74,312630,23.67
+Gonorrhea,Placer,2006,60,322270,18.618
+Gonorrhea,Placer,2007,63,329719,19.107
+Gonorrhea,Placer,2008,45,337914,13.317
+Gonorrhea,Placer,2009,69,344088,20.053
+Gonorrhea,Placer,2010,64,350272,18.272
+Gonorrhea,Placer,2011,77,356200,21.617
+Gonorrhea,Placer,2012,119,360098,33.047
+Gonorrhea,Placer,2013,108,364724,29.611
+Gonorrhea,Placer,2014,144,369726,38.948
+Pertussis,Placer,2001,16,264925,6.039
+Pertussis,Placer,2002,51,276817,18.424
+Pertussis,Placer,2003,38,290655,13.074
+Pertussis,Placer,2004,16,302815,5.284
+Pertussis,Placer,2005,19,312630,6.077
+Pertussis,Placer,2006,26,322270,8.068
+Pertussis,Placer,2007,6,329719,1.82
+Pertussis,Placer,2008,9,337914,2.663
+Pertussis,Placer,2009,7,344088,2.034
+Pertussis,Placer,2010,80,350272,22.839
+Pertussis,Placer,2011,19,356200,5.334
+Pertussis,Placer,2012,11,360098,3.055
+Pertussis,Placer,2013,84,364724,23.031
+Pertussis,Placer,2014,121,369726,32.727
+Botulism- Wound,Plumas,2001,0,20706,0
+Botulism- Wound,Plumas,2002,0,20695,0
+Botulism- Wound,Plumas,2003,0,20747,0
+Botulism- Wound,Plumas,2004,0,20899,0
+Botulism- Wound,Plumas,2005,0,20859,0
+Botulism- Wound,Plumas,2006,0,20710,0
+Botulism- Wound,Plumas,2007,0,20596,0
+Botulism- Wound,Plumas,2008,0,20368,0
+Botulism- Wound,Plumas,2009,0,20063,0
+Botulism- Wound,Plumas,2010,0,19904,0
+Botulism- Wound,Plumas,2011,0,19950,0
+Botulism- Wound,Plumas,2012,0,19906,0
+Botulism- Wound,Plumas,2013,0,19792,0
+Dengue,Plumas,2001,0,20706,0
+Dengue,Plumas,2002,0,20695,0
+Dengue,Plumas,2003,0,20747,0
+Dengue,Plumas,2004,0,20899,0
+Dengue,Plumas,2005,0,20859,0
+Dengue,Plumas,2006,0,20710,0
+Dengue,Plumas,2007,0,20596,0
+Dengue,Plumas,2008,0,20368,0
+Dengue,Plumas,2009,0,20063,0
+Dengue,Plumas,2010,0,19904,0
+Dengue,Plumas,2011,0,19950,0
+Dengue,Plumas,2012,0,19906,0
+Dengue,Plumas,2013,0,19792,0
+Gonorrhea,Plumas,2001,1,20706,4.83
+Gonorrhea,Plumas,2002,0,20695,0
+Gonorrhea,Plumas,2003,5,20747,24.1
+Gonorrhea,Plumas,2004,2,20899,9.57
+Gonorrhea,Plumas,2005,1,20859,4.794
+Gonorrhea,Plumas,2006,10,20710,48.286
+Gonorrhea,Plumas,2007,2,20596,9.711
+Gonorrhea,Plumas,2008,2,20368,9.819
+Gonorrhea,Plumas,2009,2,20063,9.969
+Gonorrhea,Plumas,2010,3,19904,15.072
+Gonorrhea,Plumas,2011,2,19950,10.025
+Gonorrhea,Plumas,2012,1,19906,5.024
+Gonorrhea,Plumas,2013,3,19792,15.158
+Gonorrhea,Plumas,2014,3,19687,15.238
+Pertussis,Plumas,2001,0,20706,0
+Pertussis,Plumas,2002,0,20695,0
+Pertussis,Plumas,2003,0,20747,0
+Pertussis,Plumas,2004,0,20899,0
+Pertussis,Plumas,2005,0,20859,0
+Pertussis,Plumas,2006,2,20710,9.657
+Pertussis,Plumas,2007,0,20596,0
+Pertussis,Plumas,2008,0,20368,0
+Pertussis,Plumas,2009,0,20063,0
+Pertussis,Plumas,2010,2,19904,10.048
+Pertussis,Plumas,2011,4,19950,20.05
+Pertussis,Plumas,2012,0,19906,0
+Pertussis,Plumas,2013,1,19792,5.053
+Pertussis,Plumas,2014,1,19687,5.079
+Botulism- Wound,Riverside,2001,0,1622454,0
+Botulism- Wound,Riverside,2002,3,1688407,0.178
+Botulism- Wound,Riverside,2003,3,1772427,0.169
+Botulism- Wound,Riverside,2004,1,1856879,0.054
+Botulism- Wound,Riverside,2005,0,1934723,0
+Botulism- Wound,Riverside,2006,3,2017350,0.149
+Botulism- Wound,Riverside,2007,1,2082656,0.048
+Botulism- Wound,Riverside,2008,2,2122920,0.094
+Botulism- Wound,Riverside,2009,0,2158399,0
+Botulism- Wound,Riverside,2010,2,2191919,0.091
+Botulism- Wound,Riverside,2011,1,2220269,0.045
+Botulism- Wound,Riverside,2012,1,2249045,0.044
+Botulism- Wound,Riverside,2013,0,2264569,0
+Botulism- Wound,Riverside,2014,2,2295298,0.087
+Dengue,Riverside,2001,1,1622454,0.062
+Dengue,Riverside,2002,0,1688407,0
+Dengue,Riverside,2003,1,1772427,0.056
+Dengue,Riverside,2004,0,1856879,0
+Dengue,Riverside,2005,0,1934723,0
+Dengue,Riverside,2006,1,2017350,0.05
+Dengue,Riverside,2007,0,2082656,0
+Dengue,Riverside,2008,0,2122920,0
+Dengue,Riverside,2009,2,2158399,0.093
+Dengue,Riverside,2010,2,2191919,0.091
+Dengue,Riverside,2011,0,2220269,0
+Dengue,Riverside,2012,4,2249045,0.178
+Dengue,Riverside,2013,4,2264569,0.177
+Dengue,Riverside,2014,5,2295298,0.218
+Gonorrhea,Riverside,2001,649,1622454,40.001
+Gonorrhea,Riverside,2002,694,1688407,41.104
+Gonorrhea,Riverside,2003,763,1772427,43.048
+Gonorrhea,Riverside,2004,793,1856879,42.706
+Gonorrhea,Riverside,2005,850,1934723,43.934
+Gonorrhea,Riverside,2006,1016,2017350,50.363
+Gonorrhea,Riverside,2007,1168,2082656,56.082
+Gonorrhea,Riverside,2008,826,2122920,38.909
+Gonorrhea,Riverside,2009,712,2158399,32.987
+Gonorrhea,Riverside,2010,773,2191919,35.266
+Gonorrhea,Riverside,2011,896,2220269,40.355
+Gonorrhea,Riverside,2012,1175,2249045,52.244
+Gonorrhea,Riverside,2013,1412,2264569,62.352
+Gonorrhea,Riverside,2014,1669,2295298,72.714
+Pertussis,Riverside,2001,10,1622454,0.616
+Pertussis,Riverside,2002,25,1688407,1.481
+Pertussis,Riverside,2003,13,1772427,0.733
+Pertussis,Riverside,2004,23,1856879,1.239
+Pertussis,Riverside,2005,64,1934723,3.308
+Pertussis,Riverside,2006,40,2017350,1.983
+Pertussis,Riverside,2007,14,2082656,0.672
+Pertussis,Riverside,2008,14,2122920,0.659
+Pertussis,Riverside,2009,57,2158399,2.641
+Pertussis,Riverside,2010,467,2191919,21.306
+Pertussis,Riverside,2011,166,2220269,7.477
+Pertussis,Riverside,2012,46,2249045,2.045
+Pertussis,Riverside,2013,80,2264569,3.533
+Pertussis,Riverside,2014,470,2295298,20.477
+Botulism- Wound,Sacramento,2001,6,1265767,0.474
+Botulism- Wound,Sacramento,2002,1,1293483,0.077
+Botulism- Wound,Sacramento,2003,2,1320963,0.151
+Botulism- Wound,Sacramento,2004,3,1342899,0.223
+Botulism- Wound,Sacramento,2005,4,1358168,0.295
+Botulism- Wound,Sacramento,2006,1,1372275,0.073
+Botulism- Wound,Sacramento,2007,0,1388086,0
+Botulism- Wound,Sacramento,2008,2,1400939,0.143
+Botulism- Wound,Sacramento,2009,1,1411403,0.071
+Botulism- Wound,Sacramento,2010,1,1420255,0.07
+Botulism- Wound,Sacramento,2011,0,1430360,0
+Botulism- Wound,Sacramento,2012,0,1435118,0
+Botulism- Wound,Sacramento,2013,1,1445457,0.069
+Botulism- Wound,Sacramento,2014,1,1460480,0.068
+Dengue,Sacramento,2001,1,1265767,0.079
+Dengue,Sacramento,2002,0,1293483,0
+Dengue,Sacramento,2003,0,1320963,0
+Dengue,Sacramento,2004,0,1342899,0
+Dengue,Sacramento,2005,0,1358168,0
+Dengue,Sacramento,2006,0,1372275,0
+Dengue,Sacramento,2007,0,1388086,0
+Dengue,Sacramento,2008,1,1400939,0.071
+Dengue,Sacramento,2009,1,1411403,0.071
+Dengue,Sacramento,2010,0,1420255,0
+Dengue,Sacramento,2011,2,1430360,0.14
+Dengue,Sacramento,2012,4,1435118,0.279
+Dengue,Sacramento,2013,2,1445457,0.138
+Dengue,Sacramento,2014,2,1460480,0.137
+Gonorrhea,Sacramento,2001,1170,1265767,92.434
+Gonorrhea,Sacramento,2002,1450,1293483,112.1
+Gonorrhea,Sacramento,2003,1728,1320963,130.814
+Gonorrhea,Sacramento,2004,1949,1342899,145.134
+Gonorrhea,Sacramento,2005,2267,1358168,166.916
+Gonorrhea,Sacramento,2006,2091,1372275,152.375
+Gonorrhea,Sacramento,2007,2198,1388086,158.348
+Gonorrhea,Sacramento,2008,1679,1400939,119.848
+Gonorrhea,Sacramento,2009,1784,1411403,126.399
+Gonorrhea,Sacramento,2010,1889,1420255,133.004
+Gonorrhea,Sacramento,2011,1813,1430360,126.751
+Gonorrhea,Sacramento,2012,2156,1435118,150.232
+Gonorrhea,Sacramento,2013,2228,1445457,154.138
+Gonorrhea,Sacramento,2014,2223,1460480,152.21
+Pertussis,Sacramento,2001,36,1265767,2.844
+Pertussis,Sacramento,2002,125,1293483,9.664
+Pertussis,Sacramento,2003,91,1320963,6.889
+Pertussis,Sacramento,2004,94,1342899,7
+Pertussis,Sacramento,2005,133,1358168,9.793
+Pertussis,Sacramento,2006,175,1372275,12.753
+Pertussis,Sacramento,2007,20,1388086,1.441
+Pertussis,Sacramento,2008,23,1400939,1.642
+Pertussis,Sacramento,2009,27,1411403,1.913
+Pertussis,Sacramento,2010,175,1420255,12.322
+Pertussis,Sacramento,2011,69,1430360,4.824
+Pertussis,Sacramento,2012,34,1435118,2.369
+Pertussis,Sacramento,2013,71,1445457,4.912
+Pertussis,Sacramento,2014,453,1460480,31.017
+Botulism- Wound,San Benito,2001,0,54696,0
+Botulism- Wound,San Benito,2002,0,55199,0
+Botulism- Wound,San Benito,2003,0,55458,0
+Botulism- Wound,San Benito,2004,0,55287,0
+Botulism- Wound,San Benito,2005,0,55153,0
+Botulism- Wound,San Benito,2006,0,54895,0
+Botulism- Wound,San Benito,2007,0,55000,0
+Botulism- Wound,San Benito,2008,0,55043,0
+Botulism- Wound,San Benito,2009,0,55093,0
+Botulism- Wound,San Benito,2010,0,55332,0
+Botulism- Wound,San Benito,2011,0,55948,0
+Botulism- Wound,San Benito,2012,0,56643,0
+Botulism- Wound,San Benito,2013,0,57146,0
+Dengue,San Benito,2001,0,54696,0
+Dengue,San Benito,2002,0,55199,0
+Dengue,San Benito,2003,0,55458,0
+Dengue,San Benito,2004,0,55287,0
+Dengue,San Benito,2005,0,55153,0
+Dengue,San Benito,2006,0,54895,0
+Dengue,San Benito,2007,0,55000,0
+Dengue,San Benito,2008,0,55043,0
+Dengue,San Benito,2009,0,55093,0
+Dengue,San Benito,2010,0,55332,0
+Dengue,San Benito,2011,0,55948,0
+Dengue,San Benito,2012,0,56643,0
+Dengue,San Benito,2013,0,57146,0
+Gonorrhea,San Benito,2001,3,54696,5.485
+Gonorrhea,San Benito,2002,14,55199,25.363
+Gonorrhea,San Benito,2003,15,55458,27.047
+Gonorrhea,San Benito,2004,47,55287,85.011
+Gonorrhea,San Benito,2005,53,55153,96.096
+Gonorrhea,San Benito,2006,16,54895,29.147
+Gonorrhea,San Benito,2007,24,55000,43.636
+Gonorrhea,San Benito,2008,9,55043,16.351
+Gonorrhea,San Benito,2009,6,55093,10.891
+Gonorrhea,San Benito,2010,9,55332,16.265
+Gonorrhea,San Benito,2011,14,55948,25.023
+Gonorrhea,San Benito,2012,36,56643,63.556
+Gonorrhea,San Benito,2013,26,57146,45.497
+Gonorrhea,San Benito,2014,21,57993,36.211
+Pertussis,San Benito,2001,1,54696,1.828
+Pertussis,San Benito,2002,0,55199,0
+Pertussis,San Benito,2003,0,55458,0
+Pertussis,San Benito,2004,1,55287,1.809
+Pertussis,San Benito,2005,3,55153,5.439
+Pertussis,San Benito,2006,3,54895,5.465
+Pertussis,San Benito,2007,6,55000,10.909
+Pertussis,San Benito,2008,1,55043,1.817
+Pertussis,San Benito,2009,4,55093,7.26
+Pertussis,San Benito,2010,7,55332,12.651
+Pertussis,San Benito,2011,3,55948,5.362
+Pertussis,San Benito,2012,1,56643,1.765
+Pertussis,San Benito,2013,1,57146,1.75
+Pertussis,San Benito,2014,11,57993,18.968
+Botulism- Wound,San Bernardino,2001,0,1763780,0
+Botulism- Wound,San Bernardino,2002,2,1800849,0.111
+Botulism- Wound,San Bernardino,2003,1,1850075,0.054
+Botulism- Wound,San Bernardino,2004,0,1900210,0
+Botulism- Wound,San Bernardino,2005,2,1942734,0.103
+Botulism- Wound,San Bernardino,2006,3,1976767,0.152
+Botulism- Wound,San Bernardino,2007,2,2002651,0.1
+Botulism- Wound,San Bernardino,2008,3,2016526,0.149
+Botulism- Wound,San Bernardino,2009,1,2022319,0.049
+Botulism- Wound,San Bernardino,2010,0,2038518,0
+Botulism- Wound,San Bernardino,2011,1,2053077,0.049
+Botulism- Wound,San Bernardino,2012,0,2063867,0
+Botulism- Wound,San Bernardino,2013,1,2074080,0.048
+Botulism- Wound,San Bernardino,2014,2,2091618,0.096
+Dengue,San Bernardino,2001,1,1763780,0.057
+Dengue,San Bernardino,2002,0,1800849,0
+Dengue,San Bernardino,2003,0,1850075,0
+Dengue,San Bernardino,2004,0,1900210,0
+Dengue,San Bernardino,2005,1,1942734,0.051
+Dengue,San Bernardino,2006,0,1976767,0
+Dengue,San Bernardino,2007,0,2002651,0
+Dengue,San Bernardino,2008,0,2016526,0
+Dengue,San Bernardino,2009,1,2022319,0.049
+Dengue,San Bernardino,2010,0,2038518,0
+Dengue,San Bernardino,2011,0,2053077,0
+Dengue,San Bernardino,2012,4,2063867,0.194
+Dengue,San Bernardino,2013,3,2074080,0.145
+Dengue,San Bernardino,2014,7,2091618,0.335
+Gonorrhea,San Bernardino,2001,1319,1763780,74.783
+Gonorrhea,San Bernardino,2002,1540,1800849,85.515
+Gonorrhea,San Bernardino,2003,1799,1850075,97.239
+Gonorrhea,San Bernardino,2004,1905,1900210,100.252
+Gonorrhea,San Bernardino,2005,2183,1942734,112.367
+Gonorrhea,San Bernardino,2006,2085,1976767,105.475
+Gonorrhea,San Bernardino,2007,1830,2002651,91.379
+Gonorrhea,San Bernardino,2008,1313,2016526,65.112
+Gonorrhea,San Bernardino,2009,1099,2022319,54.344
+Gonorrhea,San Bernardino,2010,1140,2038518,55.923
+Gonorrhea,San Bernardino,2011,1403,2053077,68.336
+Gonorrhea,San Bernardino,2012,1865,2063867,90.364
+Gonorrhea,San Bernardino,2013,2047,2074080,98.694
+Gonorrhea,San Bernardino,2014,2583,2091618,123.493
+Pertussis,San Bernardino,2001,14,1763780,0.794
+Pertussis,San Bernardino,2002,18,1800849,1
+Pertussis,San Bernardino,2003,20,1850075,1.081
+Pertussis,San Bernardino,2004,27,1900210,1.421
+Pertussis,San Bernardino,2005,34,1942734,1.75
+Pertussis,San Bernardino,2006,13,1976767,0.658
+Pertussis,San Bernardino,2007,7,2002651,0.35
+Pertussis,San Bernardino,2008,8,2016526,0.397
+Pertussis,San Bernardino,2009,18,2022319,0.89
+Pertussis,San Bernardino,2010,182,2038518,8.928
+Pertussis,San Bernardino,2011,115,2053077,5.601
+Pertussis,San Bernardino,2012,54,2063867,2.616
+Pertussis,San Bernardino,2013,38,2074080,1.832
+Pertussis,San Bernardino,2014,206,2091618,9.849
+Botulism- Wound,San Diego,2001,0,2870096,0
+Botulism- Wound,San Diego,2002,3,2910445,0.103
+Botulism- Wound,San Diego,2003,0,2943961,0
+Botulism- Wound,San Diego,2004,0,2963390,0
+Botulism- Wound,San Diego,2005,0,2970135,0
+Botulism- Wound,San Diego,2006,0,2982816,0
+Botulism- Wound,San Diego,2007,1,3014165,0.033
+Botulism- Wound,San Diego,2008,0,3051262,0
+Botulism- Wound,San Diego,2009,0,3077633,0
+Botulism- Wound,San Diego,2010,4,3102904,0.129
+Botulism- Wound,San Diego,2011,0,3125734,0
+Botulism- Wound,San Diego,2012,1,3153376,0.032
+Botulism- Wound,San Diego,2013,0,3176770,0
+Dengue,San Diego,2001,2,2870096,0.07
+Dengue,San Diego,2002,0,2910445,0
+Dengue,San Diego,2003,0,2943961,0
+Dengue,San Diego,2004,0,2963390,0
+Dengue,San Diego,2005,0,2970135,0
+Dengue,San Diego,2006,0,2982816,0
+Dengue,San Diego,2007,1,3014165,0.033
+Dengue,San Diego,2008,1,3051262,0.033
+Dengue,San Diego,2009,5,3077633,0.162
+Dengue,San Diego,2010,8,3102904,0.258
+Dengue,San Diego,2011,7,3125734,0.224
+Dengue,San Diego,2012,9,3153376,0.285
+Dengue,San Diego,2013,12,3176770,0.378
+Dengue,San Diego,2014,8,3212298,0.249
+Gonorrhea,San Diego,2001,1872,2870096,65.224
+Gonorrhea,San Diego,2002,2129,2910445,73.15
+Gonorrhea,San Diego,2003,1981,2943961,67.29
+Gonorrhea,San Diego,2004,2355,2963390,79.47
+Gonorrhea,San Diego,2005,2631,2970135,88.582
+Gonorrhea,San Diego,2006,2767,2982816,92.765
+Gonorrhea,San Diego,2007,2359,3014165,78.264
+Gonorrhea,San Diego,2008,2026,3051262,66.399
+Gonorrhea,San Diego,2009,1847,3077633,60.014
+Gonorrhea,San Diego,2010,2023,3102904,65.197
+Gonorrhea,San Diego,2011,2168,3125734,69.36
+Gonorrhea,San Diego,2012,2603,3153376,82.546
+Gonorrhea,San Diego,2013,2871,3176770,90.375
+Gonorrhea,San Diego,2014,3401,3212298,105.874
+Pertussis,San Diego,2001,100,2870096,3.484
+Pertussis,San Diego,2002,218,2910445,7.49
+Pertussis,San Diego,2003,98,2943961,3.329
+Pertussis,San Diego,2004,114,2963390,3.847
+Pertussis,San Diego,2005,377,2970135,12.693
+Pertussis,San Diego,2006,138,2982816,4.627
+Pertussis,San Diego,2007,48,3014165,1.592
+Pertussis,San Diego,2008,53,3051262,1.737
+Pertussis,San Diego,2009,163,3077633,5.296
+Pertussis,San Diego,2010,1140,3102904,36.74
+Pertussis,San Diego,2011,398,3125734,12.733
+Pertussis,San Diego,2012,161,3153376,5.106
+Pertussis,San Diego,2013,408,3176770,12.843
+Pertussis,San Diego,2014,2019,3212298,62.852
+Botulism- Wound,San Francisco,2001,1,782223,0.128
+Botulism- Wound,San Francisco,2002,0,783255,0
+Botulism- Wound,San Francisco,2003,1,781870,0.128
+Botulism- Wound,San Francisco,2004,3,780699,0.384
+Botulism- Wound,San Francisco,2005,2,779655,0.257
+Botulism- Wound,San Francisco,2006,1,782928,0.128
+Botulism- Wound,San Francisco,2007,1,791334,0.126
+Botulism- Wound,San Francisco,2008,0,798673,0
+Botulism- Wound,San Francisco,2009,0,801799,0
+Botulism- Wound,San Francisco,2010,0,806314,0
+Botulism- Wound,San Francisco,2011,1,813595,0.123
+Botulism- Wound,San Francisco,2012,0,822403,0
+Botulism- Wound,San Francisco,2013,1,830956,0.12
+Dengue,San Francisco,2001,0,782223,0
+Dengue,San Francisco,2002,0,783255,0
+Dengue,San Francisco,2003,0,781870,0
+Dengue,San Francisco,2004,0,780699,0
+Dengue,San Francisco,2005,0,779655,0
+Dengue,San Francisco,2006,0,782928,0
+Dengue,San Francisco,2007,0,791334,0
+Dengue,San Francisco,2008,0,798673,0
+Dengue,San Francisco,2009,1,801799,0.125
+Dengue,San Francisco,2010,3,806314,0.372
+Dengue,San Francisco,2011,0,813595,0
+Dengue,San Francisco,2012,3,822403,0.365
+Dengue,San Francisco,2013,3,830956,0.361
+Dengue,San Francisco,2014,7,837831,0.835
+Gonorrhea,San Francisco,2001,2040,782223,260.795
+Gonorrhea,San Francisco,2002,2136,783255,272.708
+Gonorrhea,San Francisco,2003,1809,781870,231.368
+Gonorrhea,San Francisco,2004,2142,780699,274.37
+Gonorrhea,San Francisco,2005,2463,779655,315.909
+Gonorrhea,San Francisco,2006,2501,782928,319.442
+Gonorrhea,San Francisco,2007,2014,791334,254.507
+Gonorrhea,San Francisco,2008,2004,798673,250.916
+Gonorrhea,San Francisco,2009,1809,801799,225.618
+Gonorrhea,San Francisco,2010,1937,806314,240.229
+Gonorrhea,San Francisco,2011,2251,813595,276.673
+Gonorrhea,San Francisco,2012,2480,822403,301.555
+Gonorrhea,San Francisco,2013,2525,830956,303.867
+Gonorrhea,San Francisco,2014,3293,837831,393.039
+Pertussis,San Francisco,2001,9,782223,1.151
+Pertussis,San Francisco,2002,6,783255,0.766
+Pertussis,San Francisco,2003,14,781870,1.791
+Pertussis,San Francisco,2004,27,780699,3.458
+Pertussis,San Francisco,2005,45,779655,5.772
+Pertussis,San Francisco,2006,29,782928,3.704
+Pertussis,San Francisco,2007,17,791334,2.148
+Pertussis,San Francisco,2008,10,798673,1.252
+Pertussis,San Francisco,2009,17,801799,2.12
+Pertussis,San Francisco,2010,141,806314,17.487
+Pertussis,San Francisco,2011,71,813595,8.727
+Pertussis,San Francisco,2012,30,822403,3.648
+Pertussis,San Francisco,2013,59,830956,7.1
+Pertussis,San Francisco,2014,130,837831,15.516
+Botulism- Wound,San Joaquin,2001,1,588581,0.17
+Botulism- Wound,San Joaquin,2002,0,603544,0
+Botulism- Wound,San Joaquin,2003,0,621108,0
+Botulism- Wound,San Joaquin,2004,0,638522,0
+Botulism- Wound,San Joaquin,2005,0,651625,0
+Botulism- Wound,San Joaquin,2006,0,660885,0
+Botulism- Wound,San Joaquin,2007,0,669737,0
+Botulism- Wound,San Joaquin,2008,0,675248,0
+Botulism- Wound,San Joaquin,2009,0,680421,0
+Botulism- Wound,San Joaquin,2010,0,686576,0
+Botulism- Wound,San Joaquin,2011,0,692713,0
+Botulism- Wound,San Joaquin,2012,1,697758,0.143
+Botulism- Wound,San Joaquin,2013,1,702669,0.142
+Dengue,San Joaquin,2001,0,588581,0
+Dengue,San Joaquin,2002,0,603544,0
+Dengue,San Joaquin,2003,0,621108,0
+Dengue,San Joaquin,2004,0,638522,0
+Dengue,San Joaquin,2005,0,651625,0
+Dengue,San Joaquin,2006,0,660885,0
+Dengue,San Joaquin,2007,0,669737,0
+Dengue,San Joaquin,2008,0,675248,0
+Dengue,San Joaquin,2009,0,680421,0
+Dengue,San Joaquin,2010,1,686576,0.146
+Dengue,San Joaquin,2011,0,692713,0
+Dengue,San Joaquin,2012,0,697758,0
+Dengue,San Joaquin,2013,2,702669,0.285
+Gonorrhea,San Joaquin,2001,517,588581,87.838
+Gonorrhea,San Joaquin,2002,636,603544,105.378
+Gonorrhea,San Joaquin,2003,627,621108,100.949
+Gonorrhea,San Joaquin,2004,830,638522,129.988
+Gonorrhea,San Joaquin,2005,749,651625,114.943
+Gonorrhea,San Joaquin,2006,790,660885,119.537
+Gonorrhea,San Joaquin,2007,1007,669737,150.358
+Gonorrhea,San Joaquin,2008,697,675248,103.221
+Gonorrhea,San Joaquin,2009,564,680421,82.89
+Gonorrhea,San Joaquin,2010,709,686576,103.266
+Gonorrhea,San Joaquin,2011,623,692713,89.936
+Gonorrhea,San Joaquin,2012,720,697758,103.188
+Gonorrhea,San Joaquin,2013,947,702669,134.772
+Gonorrhea,San Joaquin,2014,985,711797,138.382
+Pertussis,San Joaquin,2001,12,588581,2.039
+Pertussis,San Joaquin,2002,12,603544,1.988
+Pertussis,San Joaquin,2003,5,621108,0.805
+Pertussis,San Joaquin,2004,10,638522,1.566
+Pertussis,San Joaquin,2005,14,651625,2.148
+Pertussis,San Joaquin,2006,36,660885,5.447
+Pertussis,San Joaquin,2007,10,669737,1.493
+Pertussis,San Joaquin,2008,8,675248,1.185
+Pertussis,San Joaquin,2009,6,680421,0.882
+Pertussis,San Joaquin,2010,84,686576,12.235
+Pertussis,San Joaquin,2011,28,692713,4.042
+Pertussis,San Joaquin,2012,15,697758,2.15
+Pertussis,San Joaquin,2013,26,702669,3.7
+Pertussis,San Joaquin,2014,215,711797,30.205
+Botulism- Wound,San Luis Obispo,2001,0,251652,0
+Botulism- Wound,San Luis Obispo,2002,0,253549,0
+Botulism- Wound,San Luis Obispo,2003,0,255609,0
+Botulism- Wound,San Luis Obispo,2004,0,258483,0
+Botulism- Wound,San Luis Obispo,2005,0,259943,0
+Botulism- Wound,San Luis Obispo,2006,0,261803,0
+Botulism- Wound,San Luis Obispo,2007,0,264162,0
+Botulism- Wound,San Luis Obispo,2008,0,266850,0
+Botulism- Wound,San Luis Obispo,2009,0,268224,0
+Botulism- Wound,San Luis Obispo,2010,0,269677,0
+Botulism- Wound,San Luis Obispo,2011,0,270013,0
+Botulism- Wound,San Luis Obispo,2012,0,270637,0
+Botulism- Wound,San Luis Obispo,2013,0,271584,0
+Dengue,San Luis Obispo,2001,0,251652,0
+Dengue,San Luis Obispo,2002,0,253549,0
+Dengue,San Luis Obispo,2003,0,255609,0
+Dengue,San Luis Obispo,2004,0,258483,0
+Dengue,San Luis Obispo,2005,0,259943,0
+Dengue,San Luis Obispo,2006,0,261803,0
+Dengue,San Luis Obispo,2007,0,264162,0
+Dengue,San Luis Obispo,2008,0,266850,0
+Dengue,San Luis Obispo,2009,0,268224,0
+Dengue,San Luis Obispo,2010,1,269677,0.371
+Dengue,San Luis Obispo,2011,0,270013,0
+Dengue,San Luis Obispo,2012,1,270637,0.369
+Dengue,San Luis Obispo,2013,0,271584,0
+Dengue,San Luis Obispo,2014,2,273323,0.732
+Gonorrhea,San Luis Obispo,2001,21,251652,8.345
+Gonorrhea,San Luis Obispo,2002,34,253549,13.41
+Gonorrhea,San Luis Obispo,2003,57,255609,22.3
+Gonorrhea,San Luis Obispo,2004,34,258483,13.154
+Gonorrhea,San Luis Obispo,2005,46,259943,17.696
+Gonorrhea,San Luis Obispo,2006,42,261803,16.043
+Gonorrhea,San Luis Obispo,2007,48,264162,18.171
+Gonorrhea,San Luis Obispo,2008,35,266850,13.116
+Gonorrhea,San Luis Obispo,2009,37,268224,13.794
+Gonorrhea,San Luis Obispo,2010,31,269677,11.495
+Gonorrhea,San Luis Obispo,2011,50,270013,18.518
+Gonorrhea,San Luis Obispo,2012,84,270637,31.038
+Gonorrhea,San Luis Obispo,2013,62,271584,22.829
+Gonorrhea,San Luis Obispo,2014,151,273323,55.246
+Pertussis,San Luis Obispo,2001,0,251652,0
+Pertussis,San Luis Obispo,2002,0,253549,0
+Pertussis,San Luis Obispo,2003,1,255609,0.391
+Pertussis,San Luis Obispo,2004,1,258483,0.387
+Pertussis,San Luis Obispo,2005,114,259943,43.856
+Pertussis,San Luis Obispo,2006,33,261803,12.605
+Pertussis,San Luis Obispo,2007,16,264162,6.057
+Pertussis,San Luis Obispo,2008,13,266850,4.872
+Pertussis,San Luis Obispo,2009,5,268224,1.864
+Pertussis,San Luis Obispo,2010,371,269677,137.572
+Pertussis,San Luis Obispo,2011,15,270013,5.555
+Pertussis,San Luis Obispo,2012,14,270637,5.173
+Pertussis,San Luis Obispo,2013,17,271584,6.26
+Pertussis,San Luis Obispo,2014,45,273323,16.464
+Botulism- Wound,San Mateo,2001,0,707460,0
+Botulism- Wound,San Mateo,2002,0,704897,0
+Botulism- Wound,San Mateo,2003,0,703062,0
+Botulism- Wound,San Mateo,2004,1,701401,0.143
+Botulism- Wound,San Mateo,2005,0,699277,0
+Botulism- Wound,San Mateo,2006,0,699398,0
+Botulism- Wound,San Mateo,2007,0,704272,0
+Botulism- Wound,San Mateo,2008,0,711374,0
+Botulism- Wound,San Mateo,2009,0,716264,0
+Botulism- Wound,San Mateo,2010,0,719667,0
+Botulism- Wound,San Mateo,2011,0,728006,0
+Botulism- Wound,San Mateo,2012,0,736019,0
+Botulism- Wound,San Mateo,2013,0,742256,0
+Dengue,San Mateo,2001,1,707460,0.141
+Dengue,San Mateo,2002,0,704897,0
+Dengue,San Mateo,2003,1,703062,0.142
+Dengue,San Mateo,2004,0,701401,0
+Dengue,San Mateo,2005,1,699277,0.143
+Dengue,San Mateo,2006,0,699398,0
+Dengue,San Mateo,2007,0,704272,0
+Dengue,San Mateo,2008,1,711374,0.141
+Dengue,San Mateo,2009,3,716264,0.419
+Dengue,San Mateo,2010,3,719667,0.417
+Dengue,San Mateo,2011,2,728006,0.275
+Dengue,San Mateo,2012,4,736019,0.543
+Dengue,San Mateo,2013,5,742256,0.674
+Dengue,San Mateo,2014,6,748438,0.802
+Gonorrhea,San Mateo,2001,214,707460,30.249
+Gonorrhea,San Mateo,2002,181,704897,25.678
+Gonorrhea,San Mateo,2003,220,703062,31.292
+Gonorrhea,San Mateo,2004,250,701401,35.643
+Gonorrhea,San Mateo,2005,243,699277,34.75
+Gonorrhea,San Mateo,2006,311,699398,44.467
+Gonorrhea,San Mateo,2007,263,704272,37.344
+Gonorrhea,San Mateo,2008,248,711374,34.862
+Gonorrhea,San Mateo,2009,207,716264,28.9
+Gonorrhea,San Mateo,2010,211,719667,29.319
+Gonorrhea,San Mateo,2011,236,728006,32.417
+Gonorrhea,San Mateo,2012,265,736019,36.005
+Gonorrhea,San Mateo,2013,331,742256,44.594
+Gonorrhea,San Mateo,2014,359,748438,47.967
+Pertussis,San Mateo,2001,11,707460,1.555
+Pertussis,San Mateo,2002,15,704897,2.128
+Pertussis,San Mateo,2003,23,703062,3.271
+Pertussis,San Mateo,2004,60,701401,8.554
+Pertussis,San Mateo,2005,46,699277,6.578
+Pertussis,San Mateo,2006,47,699398,6.72
+Pertussis,San Mateo,2007,16,704272,2.272
+Pertussis,San Mateo,2008,17,711374,2.39
+Pertussis,San Mateo,2009,11,716264,1.536
+Pertussis,San Mateo,2010,191,719667,26.54
+Pertussis,San Mateo,2011,58,728006,7.967
+Pertussis,San Mateo,2012,23,736019,3.125
+Pertussis,San Mateo,2013,104,742256,14.011
+Pertussis,San Mateo,2014,129,748438,17.236
+Botulism- Wound,Santa Barbara,2001,0,403442,0
+Botulism- Wound,Santa Barbara,2002,0,406132,0
+Botulism- Wound,Santa Barbara,2003,0,409512,0
+Botulism- Wound,Santa Barbara,2004,0,411190,0
+Botulism- Wound,Santa Barbara,2005,1,411683,0.243
+Botulism- Wound,Santa Barbara,2006,3,412853,0.727
+Botulism- Wound,Santa Barbara,2007,0,416648,0
+Botulism- Wound,Santa Barbara,2008,1,419970,0.238
+Botulism- Wound,Santa Barbara,2009,0,422423,0
+Botulism- Wound,Santa Barbara,2010,0,424020,0
+Botulism- Wound,Santa Barbara,2011,0,425685,0
+Botulism- Wound,Santa Barbara,2012,0,426063,0
+Botulism- Wound,Santa Barbara,2013,0,432110,0
+Dengue,Santa Barbara,2001,6,403442,1.487
+Dengue,Santa Barbara,2002,0,406132,0
+Dengue,Santa Barbara,2003,1,409512,0.244
+Dengue,Santa Barbara,2004,0,411190,0
+Dengue,Santa Barbara,2005,1,411683,0.243
+Dengue,Santa Barbara,2006,0,412853,0
+Dengue,Santa Barbara,2007,0,416648,0
+Dengue,Santa Barbara,2008,1,419970,0.238
+Dengue,Santa Barbara,2009,0,422423,0
+Dengue,Santa Barbara,2010,0,424020,0
+Dengue,Santa Barbara,2011,1,425685,0.235
+Dengue,Santa Barbara,2012,1,426063,0.235
+Dengue,Santa Barbara,2013,4,432110,0.926
+Gonorrhea,Santa Barbara,2001,89,403442,22.06
+Gonorrhea,Santa Barbara,2002,73,406132,17.974
+Gonorrhea,Santa Barbara,2003,78,409512,19.047
+Gonorrhea,Santa Barbara,2004,71,411190,17.267
+Gonorrhea,Santa Barbara,2005,117,411683,28.42
+Gonorrhea,Santa Barbara,2006,85,412853,20.588
+Gonorrhea,Santa Barbara,2007,79,416648,18.961
+Gonorrhea,Santa Barbara,2008,90,419970,21.43
+Gonorrhea,Santa Barbara,2009,61,422423,14.441
+Gonorrhea,Santa Barbara,2010,66,424020,15.565
+Gonorrhea,Santa Barbara,2011,104,425685,24.431
+Gonorrhea,Santa Barbara,2012,170,426063,39.9
+Gonorrhea,Santa Barbara,2013,121,432110,28.002
+Gonorrhea,Santa Barbara,2014,203,436516,46.505
+Pertussis,Santa Barbara,2001,3,403442,0.744
+Pertussis,Santa Barbara,2002,11,406132,2.708
+Pertussis,Santa Barbara,2003,4,409512,0.977
+Pertussis,Santa Barbara,2004,11,411190,2.675
+Pertussis,Santa Barbara,2005,29,411683,7.044
+Pertussis,Santa Barbara,2006,18,412853,4.36
+Pertussis,Santa Barbara,2007,7,416648,1.68
+Pertussis,Santa Barbara,2008,3,419970,0.714
+Pertussis,Santa Barbara,2009,37,422423,8.759
+Pertussis,Santa Barbara,2010,66,424020,15.565
+Pertussis,Santa Barbara,2011,18,425685,4.228
+Pertussis,Santa Barbara,2012,11,426063,2.582
+Pertussis,Santa Barbara,2013,29,432110,6.711
+Pertussis,Santa Barbara,2014,120,436516,27.49
+Botulism- Wound,Santa Clara,2001,0,1693171,0
+Botulism- Wound,Santa Clara,2002,3,1693162,0.177
+Botulism- Wound,Santa Clara,2003,1,1694211,0.059
+Botulism- Wound,Santa Clara,2004,1,1696919,0.059
+Botulism- Wound,Santa Clara,2005,1,1699521,0.059
+Botulism- Wound,Santa Clara,2006,2,1713839,0.117
+Botulism- Wound,Santa Clara,2007,1,1736327,0.058
+Botulism- Wound,Santa Clara,2008,1,1759534,0.057
+Botulism- Wound,Santa Clara,2009,0,1774890,0
+Botulism- Wound,Santa Clara,2010,1,1786533,0.056
+Botulism- Wound,Santa Clara,2011,0,1807361,0
+Botulism- Wound,Santa Clara,2012,1,1827313,0.055
+Botulism- Wound,Santa Clara,2013,2,1853223,0.108
+Dengue,Santa Clara,2001,1,1693171,0.059
+Dengue,Santa Clara,2002,0,1693162,0
+Dengue,Santa Clara,2003,0,1694211,0
+Dengue,Santa Clara,2004,0,1696919,0
+Dengue,Santa Clara,2005,0,1699521,0
+Dengue,Santa Clara,2006,0,1713839,0
+Dengue,Santa Clara,2007,1,1736327,0.058
+Dengue,Santa Clara,2008,1,1759534,0.057
+Dengue,Santa Clara,2009,9,1774890,0.507
+Dengue,Santa Clara,2010,8,1786533,0.448
+Dengue,Santa Clara,2011,3,1807361,0.166
+Dengue,Santa Clara,2012,13,1827313,0.711
+Dengue,Santa Clara,2013,10,1853223,0.54
+Dengue,Santa Clara,2014,13,1874526,0.694
+Gonorrhea,Santa Clara,2001,545,1693171,32.188
+Gonorrhea,Santa Clara,2002,499,1693162,29.471
+Gonorrhea,Santa Clara,2003,726,1694211,42.852
+Gonorrhea,Santa Clara,2004,1040,1696919,61.288
+Gonorrhea,Santa Clara,2005,999,1699521,58.781
+Gonorrhea,Santa Clara,2006,1046,1713839,61.033
+Gonorrhea,Santa Clara,2007,873,1736327,50.279
+Gonorrhea,Santa Clara,2008,700,1759534,39.783
+Gonorrhea,Santa Clara,2009,558,1774890,31.439
+Gonorrhea,Santa Clara,2010,598,1786533,33.473
+Gonorrhea,Santa Clara,2011,641,1807361,35.466
+Gonorrhea,Santa Clara,2012,1006,1827313,55.054
+Gonorrhea,Santa Clara,2013,1129,1853223,60.921
+Gonorrhea,Santa Clara,2014,1515,1874526,80.82
+Pertussis,Santa Clara,2001,44,1693171,2.599
+Pertussis,Santa Clara,2002,64,1693162,3.78
+Pertussis,Santa Clara,2003,38,1694211,2.243
+Pertussis,Santa Clara,2004,58,1696919,3.418
+Pertussis,Santa Clara,2005,166,1699521,9.767
+Pertussis,Santa Clara,2006,94,1713839,5.485
+Pertussis,Santa Clara,2007,66,1736327,3.801
+Pertussis,Santa Clara,2008,26,1759534,1.478
+Pertussis,Santa Clara,2009,34,1774890,1.916
+Pertussis,Santa Clara,2010,478,1786533,26.756
+Pertussis,Santa Clara,2011,176,1807361,9.738
+Pertussis,Santa Clara,2012,45,1827313,2.463
+Pertussis,Santa Clara,2013,252,1853223,13.598
+Pertussis,Santa Clara,2014,539,1874526,28.754
+Botulism- Wound,Santa Cruz,2001,0,256166,0
+Botulism- Wound,Santa Cruz,2002,0,255590,0
+Botulism- Wound,Santa Cruz,2003,1,255122,0.392
+Botulism- Wound,Santa Cruz,2004,1,254836,0.392
+Botulism- Wound,Santa Cruz,2005,0,254725,0
+Botulism- Wound,Santa Cruz,2006,0,255486,0
+Botulism- Wound,Santa Cruz,2007,1,257601,0.388
+Botulism- Wound,Santa Cruz,2008,0,259873,0
+Botulism- Wound,Santa Cruz,2009,1,261912,0.382
+Botulism- Wound,Santa Cruz,2010,0,263182,0
+Botulism- Wound,Santa Cruz,2011,0,265526,0
+Botulism- Wound,Santa Cruz,2012,0,268607,0
+Botulism- Wound,Santa Cruz,2013,1,270734,0.369
+Dengue,Santa Cruz,2001,0,256166,0
+Dengue,Santa Cruz,2002,0,255590,0
+Dengue,Santa Cruz,2003,0,255122,0
+Dengue,Santa Cruz,2004,0,254836,0
+Dengue,Santa Cruz,2005,0,254725,0
+Dengue,Santa Cruz,2006,1,255486,0.391
+Dengue,Santa Cruz,2007,1,257601,0.388
+Dengue,Santa Cruz,2008,0,259873,0
+Dengue,Santa Cruz,2009,0,261912,0
+Dengue,Santa Cruz,2010,0,263182,0
+Dengue,Santa Cruz,2011,0,265526,0
+Dengue,Santa Cruz,2012,1,268607,0.372
+Dengue,Santa Cruz,2013,2,270734,0.739
+Gonorrhea,Santa Cruz,2001,48,256166,18.738
+Gonorrhea,Santa Cruz,2002,33,255590,12.911
+Gonorrhea,Santa Cruz,2003,65,255122,25.478
+Gonorrhea,Santa Cruz,2004,76,254836,29.823
+Gonorrhea,Santa Cruz,2005,112,254725,43.969
+Gonorrhea,Santa Cruz,2006,67,255486,26.225
+Gonorrhea,Santa Cruz,2007,87,257601,33.773
+Gonorrhea,Santa Cruz,2008,61,259873,23.473
+Gonorrhea,Santa Cruz,2009,56,261912,21.381
+Gonorrhea,Santa Cruz,2010,47,263182,17.858
+Gonorrhea,Santa Cruz,2011,81,265526,30.505
+Gonorrhea,Santa Cruz,2012,100,268607,37.229
+Gonorrhea,Santa Cruz,2013,134,270734,49.495
+Gonorrhea,Santa Cruz,2014,176,271857,64.74
+Pertussis,Santa Cruz,2001,33,256166,12.882
+Pertussis,Santa Cruz,2002,34,255590,13.303
+Pertussis,Santa Cruz,2003,54,255122,21.166
+Pertussis,Santa Cruz,2004,21,254836,8.241
+Pertussis,Santa Cruz,2005,35,254725,13.74
+Pertussis,Santa Cruz,2006,46,255486,18.005
+Pertussis,Santa Cruz,2007,11,257601,4.27
+Pertussis,Santa Cruz,2008,15,259873,5.772
+Pertussis,Santa Cruz,2009,39,261912,14.89
+Pertussis,Santa Cruz,2010,87,263182,33.057
+Pertussis,Santa Cruz,2011,22,265526,8.285
+Pertussis,Santa Cruz,2012,13,268607,4.84
+Pertussis,Santa Cruz,2013,54,270734,19.946
+Pertussis,Santa Cruz,2014,165,271857,60.694
+Botulism- Wound,Shasta,2001,0,167034,0
+Botulism- Wound,Shasta,2002,0,169578,0
+Botulism- Wound,Shasta,2003,0,171987,0
+Botulism- Wound,Shasta,2004,0,173469,0
+Botulism- Wound,Shasta,2005,0,174254,0
+Botulism- Wound,Shasta,2006,0,175238,0
+Botulism- Wound,Shasta,2007,0,175849,0
+Botulism- Wound,Shasta,2008,0,176629,0
+Botulism- Wound,Shasta,2009,0,176881,0
+Botulism- Wound,Shasta,2010,0,177457,0
+Botulism- Wound,Shasta,2011,0,178006,0
+Botulism- Wound,Shasta,2012,0,178402,0
+Botulism- Wound,Shasta,2013,0,178127,0
+Dengue,Shasta,2001,0,167034,0
+Dengue,Shasta,2002,0,169578,0
+Dengue,Shasta,2003,0,171987,0
+Dengue,Shasta,2004,0,173469,0
+Dengue,Shasta,2005,0,174254,0
+Dengue,Shasta,2006,0,175238,0
+Dengue,Shasta,2007,0,175849,0
+Dengue,Shasta,2008,0,176629,0
+Dengue,Shasta,2009,0,176881,0
+Dengue,Shasta,2010,0,177457,0
+Dengue,Shasta,2011,0,178006,0
+Dengue,Shasta,2012,0,178402,0
+Dengue,Shasta,2013,0,178127,0
+Gonorrhea,Shasta,2001,14,167034,8.382
+Gonorrhea,Shasta,2002,43,169578,25.357
+Gonorrhea,Shasta,2003,41,171987,23.839
+Gonorrhea,Shasta,2004,69,173469,39.777
+Gonorrhea,Shasta,2005,46,174254,26.398
+Gonorrhea,Shasta,2006,37,175238,21.114
+Gonorrhea,Shasta,2007,18,175849,10.236
+Gonorrhea,Shasta,2008,23,176629,13.022
+Gonorrhea,Shasta,2009,71,176881,40.14
+Gonorrhea,Shasta,2010,36,177457,20.287
+Gonorrhea,Shasta,2011,45,178006,25.28
+Gonorrhea,Shasta,2012,175,178402,98.093
+Gonorrhea,Shasta,2013,248,178127,139.227
+Gonorrhea,Shasta,2014,377,178522,211.178
+Pertussis,Shasta,2001,2,167034,1.197
+Pertussis,Shasta,2002,0,169578,0
+Pertussis,Shasta,2003,1,171987,0.581
+Pertussis,Shasta,2004,5,173469,2.882
+Pertussis,Shasta,2005,3,174254,1.722
+Pertussis,Shasta,2006,4,175238,2.283
+Pertussis,Shasta,2007,5,175849,2.843
+Pertussis,Shasta,2008,1,176629,0.566
+Pertussis,Shasta,2009,2,176881,1.131
+Pertussis,Shasta,2010,32,177457,18.033
+Pertussis,Shasta,2011,27,178006,15.168
+Pertussis,Shasta,2012,2,178402,1.121
+Pertussis,Shasta,2013,7,178127,3.93
+Pertussis,Shasta,2014,33,178522,18.485
+Botulism- Wound,Sierra,2001,0,3587,0
+Botulism- Wound,Sierra,2002,0,3564,0
+Botulism- Wound,Sierra,2003,0,3545,0
+Botulism- Wound,Sierra,2004,0,3467,0
+Botulism- Wound,Sierra,2005,0,3430,0
+Botulism- Wound,Sierra,2006,0,3424,0
+Botulism- Wound,Sierra,2007,0,3344,0
+Botulism- Wound,Sierra,2008,0,3284,0
+Botulism- Wound,Sierra,2009,0,3243,0
+Botulism- Wound,Sierra,2010,0,3229,0
+Botulism- Wound,Sierra,2011,0,3143,0
+Botulism- Wound,Sierra,2012,0,3133,0
+Botulism- Wound,Sierra,2013,0,3114,0
+Dengue,Sierra,2001,0,3587,0
+Dengue,Sierra,2002,0,3564,0
+Dengue,Sierra,2003,0,3545,0
+Dengue,Sierra,2004,0,3467,0
+Dengue,Sierra,2005,0,3430,0
+Dengue,Sierra,2006,0,3424,0
+Dengue,Sierra,2007,0,3344,0
+Dengue,Sierra,2008,0,3284,0
+Dengue,Sierra,2009,0,3243,0
+Dengue,Sierra,2010,0,3229,0
+Dengue,Sierra,2011,0,3143,0
+Dengue,Sierra,2012,0,3133,0
+Dengue,Sierra,2013,0,3114,0
+Gonorrhea,Sierra,2001,0,3587,0
+Gonorrhea,Sierra,2002,0,3564,0
+Gonorrhea,Sierra,2003,0,3545,0
+Gonorrhea,Sierra,2004,0,3467,0
+Gonorrhea,Sierra,2005,1,3430,29.155
+Gonorrhea,Sierra,2006,0,3424,0
+Gonorrhea,Sierra,2007,0,3344,0
+Gonorrhea,Sierra,2008,0,3284,0
+Gonorrhea,Sierra,2009,1,3243,30.836
+Gonorrhea,Sierra,2010,0,3229,0
+Gonorrhea,Sierra,2011,1,3143,31.817
+Gonorrhea,Sierra,2012,1,3133,31.918
+Gonorrhea,Sierra,2013,2,3114,64.226
+Gonorrhea,Sierra,2014,1,3093,32.331
+Pertussis,Sierra,2001,0,3587,0
+Pertussis,Sierra,2002,0,3564,0
+Pertussis,Sierra,2003,0,3545,0
+Pertussis,Sierra,2004,0,3467,0
+Pertussis,Sierra,2005,0,3430,0
+Pertussis,Sierra,2006,0,3424,0
+Pertussis,Sierra,2007,0,3344,0
+Pertussis,Sierra,2008,0,3284,0
+Pertussis,Sierra,2009,0,3243,0
+Pertussis,Sierra,2010,0,3229,0
+Pertussis,Sierra,2011,0,3143,0
+Pertussis,Sierra,2012,0,3133,0
+Pertussis,Sierra,2013,0,3114,0
+Botulism- Wound,Siskiyou,2001,0,44275,0
+Botulism- Wound,Siskiyou,2002,0,44384,0
+Botulism- Wound,Siskiyou,2003,0,44597,0
+Botulism- Wound,Siskiyou,2004,0,44785,0
+Botulism- Wound,Siskiyou,2005,0,44945,0
+Botulism- Wound,Siskiyou,2006,0,44891,0
+Botulism- Wound,Siskiyou,2007,0,44862,0
+Botulism- Wound,Siskiyou,2008,0,45041,0
+Botulism- Wound,Siskiyou,2009,0,44950,0
+Botulism- Wound,Siskiyou,2010,0,44896,0
+Botulism- Wound,Siskiyou,2011,0,44890,0
+Botulism- Wound,Siskiyou,2012,0,45218,0
+Botulism- Wound,Siskiyou,2013,0,45308,0
+Dengue,Siskiyou,2001,0,44275,0
+Dengue,Siskiyou,2002,0,44384,0
+Dengue,Siskiyou,2003,0,44597,0
+Dengue,Siskiyou,2004,0,44785,0
+Dengue,Siskiyou,2005,0,44945,0
+Dengue,Siskiyou,2006,0,44891,0
+Dengue,Siskiyou,2007,0,44862,0
+Dengue,Siskiyou,2008,0,45041,0
+Dengue,Siskiyou,2009,0,44950,0
+Dengue,Siskiyou,2010,0,44896,0
+Dengue,Siskiyou,2011,0,44890,0
+Dengue,Siskiyou,2012,0,45218,0
+Dengue,Siskiyou,2013,0,45308,0
+Gonorrhea,Siskiyou,2001,5,44275,11.293
+Gonorrhea,Siskiyou,2002,3,44384,6.759
+Gonorrhea,Siskiyou,2003,5,44597,11.212
+Gonorrhea,Siskiyou,2004,7,44785,15.63
+Gonorrhea,Siskiyou,2005,12,44945,26.699
+Gonorrhea,Siskiyou,2006,10,44891,22.276
+Gonorrhea,Siskiyou,2007,0,44862,0
+Gonorrhea,Siskiyou,2008,0,45041,0
+Gonorrhea,Siskiyou,2009,13,44950,28.921
+Gonorrhea,Siskiyou,2010,6,44896,13.364
+Gonorrhea,Siskiyou,2011,10,44890,22.277
+Gonorrhea,Siskiyou,2012,7,45218,15.481
+Gonorrhea,Siskiyou,2013,20,45308,44.142
+Gonorrhea,Siskiyou,2014,30,45317,66.2
+Pertussis,Siskiyou,2001,0,44275,0
+Pertussis,Siskiyou,2002,0,44384,0
+Pertussis,Siskiyou,2003,0,44597,0
+Pertussis,Siskiyou,2004,0,44785,0
+Pertussis,Siskiyou,2005,0,44945,0
+Pertussis,Siskiyou,2006,2,44891,4.455
+Pertussis,Siskiyou,2007,0,44862,0
+Pertussis,Siskiyou,2008,4,45041,8.881
+Pertussis,Siskiyou,2009,0,44950,0
+Pertussis,Siskiyou,2010,10,44896,22.274
+Pertussis,Siskiyou,2011,0,44890,0
+Pertussis,Siskiyou,2012,2,45218,4.423
+Pertussis,Siskiyou,2013,5,45308,11.036
+Pertussis,Siskiyou,2014,7,45317,15.447
+Botulism- Wound,Solano,2001,1,402968,0.248
+Botulism- Wound,Solano,2002,0,406816,0
+Botulism- Wound,Solano,2003,0,408929,0
+Botulism- Wound,Solano,2004,0,411389,0
+Botulism- Wound,Solano,2005,0,410570,0
+Botulism- Wound,Solano,2006,0,411351,0
+Botulism- Wound,Solano,2007,0,412636,0
+Botulism- Wound,Solano,2008,0,413167,0
+Botulism- Wound,Solano,2009,0,412488,0
+Botulism- Wound,Solano,2010,0,413114,0
+Botulism- Wound,Solano,2011,0,414268,0
+Botulism- Wound,Solano,2012,0,419064,0
+Botulism- Wound,Solano,2013,0,422899,0
+Dengue,Solano,2001,0,402968,0
+Dengue,Solano,2002,0,406816,0
+Dengue,Solano,2003,0,408929,0
+Dengue,Solano,2004,0,411389,0
+Dengue,Solano,2005,0,410570,0
+Dengue,Solano,2006,0,411351,0
+Dengue,Solano,2007,0,412636,0
+Dengue,Solano,2008,0,413167,0
+Dengue,Solano,2009,0,412488,0
+Dengue,Solano,2010,1,413114,0.242
+Dengue,Solano,2011,1,414268,0.241
+Dengue,Solano,2012,0,419064,0
+Dengue,Solano,2013,2,422899,0.473
+Gonorrhea,Solano,2001,222,402968,55.091
+Gonorrhea,Solano,2002,278,406816,68.336
+Gonorrhea,Solano,2003,250,408929,61.135
+Gonorrhea,Solano,2004,297,411389,72.194
+Gonorrhea,Solano,2005,408,410570,99.374
+Gonorrhea,Solano,2006,353,411351,85.815
+Gonorrhea,Solano,2007,341,412636,82.639
+Gonorrhea,Solano,2008,311,413167,75.272
+Gonorrhea,Solano,2009,320,412488,77.578
+Gonorrhea,Solano,2010,437,413114,105.782
+Gonorrhea,Solano,2011,266,414268,64.21
+Gonorrhea,Solano,2012,356,419064,84.951
+Gonorrhea,Solano,2013,417,422899,98.605
+Gonorrhea,Solano,2014,591,427743,138.167
+Pertussis,Solano,2001,10,402968,2.482
+Pertussis,Solano,2002,1,406816,0.246
+Pertussis,Solano,2003,60,408929,14.672
+Pertussis,Solano,2004,18,411389,4.375
+Pertussis,Solano,2005,2,410570,0.487
+Pertussis,Solano,2006,2,411351,0.486
+Pertussis,Solano,2007,2,412636,0.485
+Pertussis,Solano,2008,4,413167,0.968
+Pertussis,Solano,2009,8,412488,1.939
+Pertussis,Solano,2010,40,413114,9.683
+Pertussis,Solano,2011,12,414268,2.897
+Pertussis,Solano,2012,10,419064,2.386
+Pertussis,Solano,2013,15,422899,3.547
+Pertussis,Solano,2014,144,427743,33.665
+Botulism- Wound,Sonoma,2001,0,465423,0
+Botulism- Wound,Sonoma,2002,0,465998,0
+Botulism- Wound,Sonoma,2003,0,468257,0
+Botulism- Wound,Sonoma,2004,0,469933,0
+Botulism- Wound,Sonoma,2005,0,469524,0
+Botulism- Wound,Sonoma,2006,0,469967,0
+Botulism- Wound,Sonoma,2007,0,472987,0
+Botulism- Wound,Sonoma,2008,0,476650,0
+Botulism- Wound,Sonoma,2009,0,480598,0
+Botulism- Wound,Sonoma,2010,0,484030,0
+Botulism- Wound,Sonoma,2011,0,486613,0
+Botulism- Wound,Sonoma,2012,0,488300,0
+Botulism- Wound,Sonoma,2013,1,491619,0.203
+Botulism- Wound,Sonoma,2014,1,495684,0.202
+Dengue,Sonoma,2001,1,465423,0.215
+Dengue,Sonoma,2002,0,465998,0
+Dengue,Sonoma,2003,0,468257,0
+Dengue,Sonoma,2004,0,469933,0
+Dengue,Sonoma,2005,0,469524,0
+Dengue,Sonoma,2006,0,469967,0
+Dengue,Sonoma,2007,1,472987,0.211
+Dengue,Sonoma,2008,0,476650,0
+Dengue,Sonoma,2009,1,480598,0.208
+Dengue,Sonoma,2010,2,484030,0.413
+Dengue,Sonoma,2011,0,486613,0
+Dengue,Sonoma,2012,3,488300,0.614
+Dengue,Sonoma,2013,3,491619,0.61
+Dengue,Sonoma,2014,5,495684,1.009
+Gonorrhea,Sonoma,2001,35,465423,7.52
+Gonorrhea,Sonoma,2002,90,465998,19.313
+Gonorrhea,Sonoma,2003,115,468257,24.559
+Gonorrhea,Sonoma,2004,144,469933,30.643
+Gonorrhea,Sonoma,2005,152,469524,32.373
+Gonorrhea,Sonoma,2006,126,469967,26.81
+Gonorrhea,Sonoma,2007,93,472987,19.662
+Gonorrhea,Sonoma,2008,69,476650,14.476
+Gonorrhea,Sonoma,2009,92,480598,19.143
+Gonorrhea,Sonoma,2010,97,484030,20.04
+Gonorrhea,Sonoma,2011,134,486613,27.537
+Gonorrhea,Sonoma,2012,153,488300,31.333
+Gonorrhea,Sonoma,2013,255,491619,51.869
+Gonorrhea,Sonoma,2014,216,495684,43.576
+Pertussis,Sonoma,2001,30,465423,6.446
+Pertussis,Sonoma,2002,25,465998,5.365
+Pertussis,Sonoma,2003,18,468257,3.844
+Pertussis,Sonoma,2004,8,469933,1.702
+Pertussis,Sonoma,2005,70,469524,14.909
+Pertussis,Sonoma,2006,69,469967,14.682
+Pertussis,Sonoma,2007,27,472987,5.708
+Pertussis,Sonoma,2008,27,476650,5.665
+Pertussis,Sonoma,2009,18,480598,3.745
+Pertussis,Sonoma,2010,246,484030,50.823
+Pertussis,Sonoma,2011,116,486613,23.838
+Pertussis,Sonoma,2012,18,488300,3.686
+Pertussis,Sonoma,2013,51,491619,10.374
+Pertussis,Sonoma,2014,704,495684,142.026
+Botulism- Wound,Stanislaus,2001,1,463128,0.216
+Botulism- Wound,Stanislaus,2002,0,473580,0
+Botulism- Wound,Stanislaus,2003,0,483007,0
+Botulism- Wound,Stanislaus,2004,0,490283,0
+Botulism- Wound,Stanislaus,2005,0,498020,0
+Botulism- Wound,Stanislaus,2006,0,503548,0
+Botulism- Wound,Stanislaus,2007,0,508372,0
+Botulism- Wound,Stanislaus,2008,0,510396,0
+Botulism- Wound,Stanislaus,2009,0,512052,0
+Botulism- Wound,Stanislaus,2010,0,515183,0
+Botulism- Wound,Stanislaus,2011,0,518178,0
+Botulism- Wound,Stanislaus,2012,0,523126,0
+Botulism- Wound,Stanislaus,2013,0,526549,0
+Botulism- Wound,Stanislaus,2014,1,530327,0.189
+Dengue,Stanislaus,2001,0,463128,0
+Dengue,Stanislaus,2002,0,473580,0
+Dengue,Stanislaus,2003,0,483007,0
+Dengue,Stanislaus,2004,0,490283,0
+Dengue,Stanislaus,2005,0,498020,0
+Dengue,Stanislaus,2006,0,503548,0
+Dengue,Stanislaus,2007,0,508372,0
+Dengue,Stanislaus,2008,0,510396,0
+Dengue,Stanislaus,2009,0,512052,0
+Dengue,Stanislaus,2010,0,515183,0
+Dengue,Stanislaus,2011,0,518178,0
+Dengue,Stanislaus,2012,0,523126,0
+Dengue,Stanislaus,2013,1,526549,0.19
+Gonorrhea,Stanislaus,2001,204,463128,44.048
+Gonorrhea,Stanislaus,2002,160,473580,33.785
+Gonorrhea,Stanislaus,2003,283,483007,58.591
+Gonorrhea,Stanislaus,2004,535,490283,109.121
+Gonorrhea,Stanislaus,2005,657,498020,131.922
+Gonorrhea,Stanislaus,2006,411,503548,81.621
+Gonorrhea,Stanislaus,2007,496,508372,97.566
+Gonorrhea,Stanislaus,2008,270,510396,52.9
+Gonorrhea,Stanislaus,2009,155,512052,30.27
+Gonorrhea,Stanislaus,2010,167,515183,32.416
+Gonorrhea,Stanislaus,2011,136,518178,26.246
+Gonorrhea,Stanislaus,2012,302,523126,57.73
+Gonorrhea,Stanislaus,2013,552,526549,104.834
+Gonorrhea,Stanislaus,2014,788,530327,148.588
+Pertussis,Stanislaus,2001,5,463128,1.08
+Pertussis,Stanislaus,2002,19,473580,4.012
+Pertussis,Stanislaus,2003,29,483007,6.004
+Pertussis,Stanislaus,2004,12,490283,2.448
+Pertussis,Stanislaus,2005,112,498020,22.489
+Pertussis,Stanislaus,2006,65,503548,12.908
+Pertussis,Stanislaus,2007,7,508372,1.377
+Pertussis,Stanislaus,2008,6,510396,1.176
+Pertussis,Stanislaus,2009,16,512052,3.125
+Pertussis,Stanislaus,2010,159,515183,30.863
+Pertussis,Stanislaus,2011,43,518178,8.298
+Pertussis,Stanislaus,2012,11,523126,2.103
+Pertussis,Stanislaus,2013,16,526549,3.039
+Pertussis,Stanislaus,2014,92,530327,17.348
+Botulism- Wound,Sutter,2001,0,80240,0
+Botulism- Wound,Sutter,2002,0,81936,0
+Botulism- Wound,Sutter,2003,0,84108,0
+Botulism- Wound,Sutter,2004,0,86092,0
+Botulism- Wound,Sutter,2005,0,88106,0
+Botulism- Wound,Sutter,2006,0,90628,0
+Botulism- Wound,Sutter,2007,0,92502,0
+Botulism- Wound,Sutter,2008,0,93465,0
+Botulism- Wound,Sutter,2009,0,94372,0
+Botulism- Wound,Sutter,2010,0,94645,0
+Botulism- Wound,Sutter,2011,0,94676,0
+Botulism- Wound,Sutter,2012,0,96557,0
+Botulism- Wound,Sutter,2013,0,96712,0
+Dengue,Sutter,2001,0,80240,0
+Dengue,Sutter,2002,0,81936,0
+Dengue,Sutter,2003,0,84108,0
+Dengue,Sutter,2004,0,86092,0
+Dengue,Sutter,2005,0,88106,0
+Dengue,Sutter,2006,0,90628,0
+Dengue,Sutter,2007,0,92502,0
+Dengue,Sutter,2008,0,93465,0
+Dengue,Sutter,2009,1,94372,1.06
+Dengue,Sutter,2010,0,94645,0
+Dengue,Sutter,2011,0,94676,0
+Dengue,Sutter,2012,0,96557,0
+Dengue,Sutter,2013,0,96712,0
+Gonorrhea,Sutter,2001,22,80240,27.418
+Gonorrhea,Sutter,2002,30,81936,36.614
+Gonorrhea,Sutter,2003,49,84108,58.258
+Gonorrhea,Sutter,2004,61,86092,70.854
+Gonorrhea,Sutter,2005,78,88106,88.53
+Gonorrhea,Sutter,2006,35,90628,38.619
+Gonorrhea,Sutter,2007,22,92502,23.783
+Gonorrhea,Sutter,2008,14,93465,14.979
+Gonorrhea,Sutter,2009,20,94372,21.193
+Gonorrhea,Sutter,2010,30,94645,31.697
+Gonorrhea,Sutter,2011,24,94676,25.35
+Gonorrhea,Sutter,2012,22,96557,22.784
+Gonorrhea,Sutter,2013,72,96712,74.448
+Gonorrhea,Sutter,2014,84,96408,87.13
+Pertussis,Sutter,2001,1,80240,1.246
+Pertussis,Sutter,2002,1,81936,1.22
+Pertussis,Sutter,2003,4,84108,4.756
+Pertussis,Sutter,2004,0,86092,0
+Pertussis,Sutter,2005,0,88106,0
+Pertussis,Sutter,2006,1,90628,1.103
+Pertussis,Sutter,2007,0,92502,0
+Pertussis,Sutter,2008,1,93465,1.07
+Pertussis,Sutter,2009,1,94372,1.06
+Pertussis,Sutter,2010,5,94645,5.283
+Pertussis,Sutter,2011,1,94676,1.056
+Pertussis,Sutter,2012,0,96557,0
+Pertussis,Sutter,2013,2,96712,2.068
+Pertussis,Sutter,2014,8,96408,8.298
+Botulism- Wound,Tehama,2001,0,56465,0
+Botulism- Wound,Tehama,2002,0,57281,0
+Botulism- Wound,Tehama,2003,0,58415,0
+Botulism- Wound,Tehama,2004,0,59493,0
+Botulism- Wound,Tehama,2005,0,60461,0
+Botulism- Wound,Tehama,2006,0,61542,0
+Botulism- Wound,Tehama,2007,0,62011,0
+Botulism- Wound,Tehama,2008,0,62720,0
+Botulism- Wound,Tehama,2009,0,63122,0
+Botulism- Wound,Tehama,2010,0,63476,0
+Botulism- Wound,Tehama,2011,0,63477,0
+Botulism- Wound,Tehama,2012,0,63937,0
+Botulism- Wound,Tehama,2013,0,64114,0
+Botulism- Wound,Tehama,2014,1,64226,1.557
+Dengue,Tehama,2001,0,56465,0
+Dengue,Tehama,2002,0,57281,0
+Dengue,Tehama,2003,0,58415,0
+Dengue,Tehama,2004,0,59493,0
+Dengue,Tehama,2005,0,60461,0
+Dengue,Tehama,2006,0,61542,0
+Dengue,Tehama,2007,0,62011,0
+Dengue,Tehama,2008,0,62720,0
+Dengue,Tehama,2009,0,63122,0
+Dengue,Tehama,2010,0,63476,0
+Dengue,Tehama,2011,0,63477,0
+Dengue,Tehama,2012,0,63937,0
+Dengue,Tehama,2013,0,64114,0
+Gonorrhea,Tehama,2001,2,56465,3.542
+Gonorrhea,Tehama,2002,2,57281,3.492
+Gonorrhea,Tehama,2003,3,58415,5.136
+Gonorrhea,Tehama,2004,12,59493,20.17
+Gonorrhea,Tehama,2005,19,60461,31.425
+Gonorrhea,Tehama,2006,26,61542,42.248
+Gonorrhea,Tehama,2007,14,62011,22.577
+Gonorrhea,Tehama,2008,4,62720,6.378
+Gonorrhea,Tehama,2009,16,63122,25.348
+Gonorrhea,Tehama,2010,3,63476,4.726
+Gonorrhea,Tehama,2011,9,63477,14.178
+Gonorrhea,Tehama,2012,42,63937,65.69
+Gonorrhea,Tehama,2013,60,64114,93.583
+Gonorrhea,Tehama,2014,76,64226,118.332
+Pertussis,Tehama,2001,1,56465,1.771
+Pertussis,Tehama,2002,0,57281,0
+Pertussis,Tehama,2003,0,58415,0
+Pertussis,Tehama,2004,0,59493,0
+Pertussis,Tehama,2005,0,60461,0
+Pertussis,Tehama,2006,0,61542,0
+Pertussis,Tehama,2007,0,62011,0
+Pertussis,Tehama,2008,2,62720,3.189
+Pertussis,Tehama,2009,0,63122,0
+Pertussis,Tehama,2010,10,63476,15.754
+Pertussis,Tehama,2011,1,63477,1.575
+Pertussis,Tehama,2012,0,63937,0
+Pertussis,Tehama,2013,0,64114,0
+Pertussis,Tehama,2014,38,64226,59.166
+Botulism- Wound,Trinity,2001,0,12963,0
+Botulism- Wound,Trinity,2002,0,13159,0
+Botulism- Wound,Trinity,2003,0,13388,0
+Botulism- Wound,Trinity,2004,0,13519,0
+Botulism- Wound,Trinity,2005,0,13789,0
+Botulism- Wound,Trinity,2006,0,13823,0
+Botulism- Wound,Trinity,2007,0,13787,0
+Botulism- Wound,Trinity,2008,0,13730,0
+Botulism- Wound,Trinity,2009,0,13771,0
+Botulism- Wound,Trinity,2010,0,13705,0
+Botulism- Wound,Trinity,2011,0,13525,0
+Botulism- Wound,Trinity,2012,0,13496,0
+Botulism- Wound,Trinity,2013,0,13459,0
+Dengue,Trinity,2001,0,12963,0
+Dengue,Trinity,2002,0,13159,0
+Dengue,Trinity,2003,0,13388,0
+Dengue,Trinity,2004,0,13519,0
+Dengue,Trinity,2005,0,13789,0
+Dengue,Trinity,2006,0,13823,0
+Dengue,Trinity,2007,0,13787,0
+Dengue,Trinity,2008,0,13730,0
+Dengue,Trinity,2009,0,13771,0
+Dengue,Trinity,2010,0,13705,0
+Dengue,Trinity,2011,0,13525,0
+Dengue,Trinity,2012,0,13496,0
+Dengue,Trinity,2013,0,13459,0
+Gonorrhea,Trinity,2001,1,12963,7.714
+Gonorrhea,Trinity,2002,1,13159,7.599
+Gonorrhea,Trinity,2003,0,13388,0
+Gonorrhea,Trinity,2004,3,13519,22.191
+Gonorrhea,Trinity,2005,0,13789,0
+Gonorrhea,Trinity,2006,2,13823,14.469
+Gonorrhea,Trinity,2007,2,13787,14.506
+Gonorrhea,Trinity,2008,0,13730,0
+Gonorrhea,Trinity,2009,1,13771,7.262
+Gonorrhea,Trinity,2010,1,13705,7.297
+Gonorrhea,Trinity,2011,1,13525,7.394
+Gonorrhea,Trinity,2012,0,13496,0
+Gonorrhea,Trinity,2013,2,13459,14.86
+Gonorrhea,Trinity,2014,7,13399,52.243
+Pertussis,Trinity,2001,9,12963,69.428
+Pertussis,Trinity,2002,0,13159,0
+Pertussis,Trinity,2003,0,13388,0
+Pertussis,Trinity,2004,0,13519,0
+Pertussis,Trinity,2005,2,13789,14.504
+Pertussis,Trinity,2006,0,13823,0
+Pertussis,Trinity,2007,0,13787,0
+Pertussis,Trinity,2008,0,13730,0
+Pertussis,Trinity,2009,0,13771,0
+Pertussis,Trinity,2010,0,13705,0
+Pertussis,Trinity,2011,0,13525,0
+Pertussis,Trinity,2012,0,13496,0
+Pertussis,Trinity,2013,0,13459,0
+Pertussis,Trinity,2014,6,13399,44.779
+Botulism- Wound,Tulare,2001,0,374152,0
+Botulism- Wound,Tulare,2002,0,381194,0
+Botulism- Wound,Tulare,2003,0,390370,0
+Botulism- Wound,Tulare,2004,0,399913,0
+Botulism- Wound,Tulare,2005,0,408403,0
+Botulism- Wound,Tulare,2006,0,416092,0
+Botulism- Wound,Tulare,2007,0,423608,0
+Botulism- Wound,Tulare,2008,0,431471,0
+Botulism- Wound,Tulare,2009,0,438408,0
+Botulism- Wound,Tulare,2010,0,443086,0
+Botulism- Wound,Tulare,2011,0,447591,0
+Botulism- Wound,Tulare,2012,0,452301,0
+Botulism- Wound,Tulare,2013,0,455376,0
+Dengue,Tulare,2001,0,374152,0
+Dengue,Tulare,2002,0,381194,0
+Dengue,Tulare,2003,0,390370,0
+Dengue,Tulare,2004,0,399913,0
+Dengue,Tulare,2005,0,408403,0
+Dengue,Tulare,2006,0,416092,0
+Dengue,Tulare,2007,0,423608,0
+Dengue,Tulare,2008,0,431471,0
+Dengue,Tulare,2009,0,438408,0
+Dengue,Tulare,2010,2,443086,0.451
+Dengue,Tulare,2011,0,447591,0
+Dengue,Tulare,2012,0,452301,0
+Dengue,Tulare,2013,0,455376,0
+Gonorrhea,Tulare,2001,83,374152,22.183
+Gonorrhea,Tulare,2002,151,381194,39.612
+Gonorrhea,Tulare,2003,200,390370,51.233
+Gonorrhea,Tulare,2004,408,399913,102.022
+Gonorrhea,Tulare,2005,405,408403,99.167
+Gonorrhea,Tulare,2006,469,416092,112.715
+Gonorrhea,Tulare,2007,313,423608,73.889
+Gonorrhea,Tulare,2008,191,431471,44.267
+Gonorrhea,Tulare,2009,100,438408,22.81
+Gonorrhea,Tulare,2010,90,443086,20.312
+Gonorrhea,Tulare,2011,94,447591,21.001
+Gonorrhea,Tulare,2012,170,452301,37.586
+Gonorrhea,Tulare,2013,292,455376,64.123
+Gonorrhea,Tulare,2014,390,459176,84.935
+Pertussis,Tulare,2001,4,374152,1.069
+Pertussis,Tulare,2002,14,381194,3.673
+Pertussis,Tulare,2003,3,390370,0.769
+Pertussis,Tulare,2004,5,399913,1.25
+Pertussis,Tulare,2005,42,408403,10.284
+Pertussis,Tulare,2006,49,416092,11.776
+Pertussis,Tulare,2007,6,423608,1.416
+Pertussis,Tulare,2008,8,431471,1.854
+Pertussis,Tulare,2009,14,438408,3.193
+Pertussis,Tulare,2010,230,443086,51.909
+Pertussis,Tulare,2011,77,447591,17.203
+Pertussis,Tulare,2012,27,452301,5.969
+Pertussis,Tulare,2013,25,455376,5.49
+Pertussis,Tulare,2014,37,459176,8.058
+Botulism- Wound,Tuolumne,2001,0,55326,0
+Botulism- Wound,Tuolumne,2002,0,55910,0
+Botulism- Wound,Tuolumne,2003,0,56442,0
+Botulism- Wound,Tuolumne,2004,0,56369,0
+Botulism- Wound,Tuolumne,2005,0,56452,0
+Botulism- Wound,Tuolumne,2006,0,56558,0
+Botulism- Wound,Tuolumne,2007,0,56133,0
+Botulism- Wound,Tuolumne,2008,0,56060,0
+Botulism- Wound,Tuolumne,2009,0,55258,0
+Botulism- Wound,Tuolumne,2010,0,55146,0
+Botulism- Wound,Tuolumne,2011,0,55045,0
+Botulism- Wound,Tuolumne,2012,0,53949,0
+Botulism- Wound,Tuolumne,2013,0,54118,0
+Dengue,Tuolumne,2001,0,55326,0
+Dengue,Tuolumne,2002,0,55910,0
+Dengue,Tuolumne,2003,0,56442,0
+Dengue,Tuolumne,2004,0,56369,0
+Dengue,Tuolumne,2005,0,56452,0
+Dengue,Tuolumne,2006,0,56558,0
+Dengue,Tuolumne,2007,0,56133,0
+Dengue,Tuolumne,2008,0,56060,0
+Dengue,Tuolumne,2009,0,55258,0
+Dengue,Tuolumne,2010,0,55146,0
+Dengue,Tuolumne,2011,0,55045,0
+Dengue,Tuolumne,2012,0,53949,0
+Dengue,Tuolumne,2013,0,54118,0
+Gonorrhea,Tuolumne,2001,1,55326,1.807
+Gonorrhea,Tuolumne,2002,2,55910,3.577
+Gonorrhea,Tuolumne,2003,7,56442,12.402
+Gonorrhea,Tuolumne,2004,10,56369,17.74
+Gonorrhea,Tuolumne,2005,10,56452,17.714
+Gonorrhea,Tuolumne,2006,9,56558,15.913
+Gonorrhea,Tuolumne,2007,14,56133,24.941
+Gonorrhea,Tuolumne,2008,7,56060,12.487
+Gonorrhea,Tuolumne,2009,3,55258,5.429
+Gonorrhea,Tuolumne,2010,4,55146,7.253
+Gonorrhea,Tuolumne,2011,15,55045,27.25
+Gonorrhea,Tuolumne,2012,17,53949,31.511
+Gonorrhea,Tuolumne,2013,16,54118,29.565
+Gonorrhea,Tuolumne,2014,23,53887,42.682
+Pertussis,Tuolumne,2001,1,55326,1.807
+Pertussis,Tuolumne,2002,0,55910,0
+Pertussis,Tuolumne,2003,0,56442,0
+Pertussis,Tuolumne,2004,0,56369,0
+Pertussis,Tuolumne,2005,2,56452,3.543
+Pertussis,Tuolumne,2006,0,56558,0
+Pertussis,Tuolumne,2007,0,56133,0
+Pertussis,Tuolumne,2008,3,56060,5.351
+Pertussis,Tuolumne,2009,1,55258,1.81
+Pertussis,Tuolumne,2010,32,55146,58.028
+Pertussis,Tuolumne,2011,4,55045,7.267
+Pertussis,Tuolumne,2012,1,53949,1.854
+Pertussis,Tuolumne,2013,2,54118,3.696
+Pertussis,Tuolumne,2014,16,53887,29.692
+Botulism- Wound,Ventura,2001,1,768991,0.13
+Botulism- Wound,Ventura,2002,3,779894,0.385
+Botulism- Wound,Ventura,2003,5,789367,0.633
+Botulism- Wound,Ventura,2004,1,795046,0.126
+Botulism- Wound,Ventura,2005,2,796867,0.251
+Botulism- Wound,Ventura,2006,3,801225,0.374
+Botulism- Wound,Ventura,2007,0,805911,0
+Botulism- Wound,Ventura,2008,1,812028,0.123
+Botulism- Wound,Ventura,2009,3,818546,0.367
+Botulism- Wound,Ventura,2010,2,825061,0.242
+Botulism- Wound,Ventura,2011,3,830091,0.361
+Botulism- Wound,Ventura,2012,0,833361,0
+Botulism- Wound,Ventura,2013,0,839270,0
+Dengue,Ventura,2001,1,768991,0.13
+Dengue,Ventura,2002,0,779894,0
+Dengue,Ventura,2003,0,789367,0
+Dengue,Ventura,2004,0,795046,0
+Dengue,Ventura,2005,0,796867,0
+Dengue,Ventura,2006,0,801225,0
+Dengue,Ventura,2007,0,805911,0
+Dengue,Ventura,2008,0,812028,0
+Dengue,Ventura,2009,1,818546,0.122
+Dengue,Ventura,2010,0,825061,0
+Dengue,Ventura,2011,1,830091,0.12
+Dengue,Ventura,2012,2,833361,0.24
+Dengue,Ventura,2013,2,839270,0.238
+Dengue,Ventura,2014,1,844259,0.118
+Gonorrhea,Ventura,2001,142,768991,18.466
+Gonorrhea,Ventura,2002,159,779894,20.387
+Gonorrhea,Ventura,2003,145,789367,18.369
+Gonorrhea,Ventura,2004,136,795046,17.106
+Gonorrhea,Ventura,2005,216,796867,27.106
+Gonorrhea,Ventura,2006,179,801225,22.341
+Gonorrhea,Ventura,2007,166,805911,20.598
+Gonorrhea,Ventura,2008,157,812028,19.334
+Gonorrhea,Ventura,2009,147,818546,17.959
+Gonorrhea,Ventura,2010,170,825061,20.605
+Gonorrhea,Ventura,2011,211,830091,25.419
+Gonorrhea,Ventura,2012,378,833361,45.358
+Gonorrhea,Ventura,2013,333,839270,39.677
+Gonorrhea,Ventura,2014,360,844259,42.641
+Pertussis,Ventura,2001,36,768991,4.681
+Pertussis,Ventura,2002,44,779894,5.642
+Pertussis,Ventura,2003,30,789367,3.801
+Pertussis,Ventura,2004,28,795046,3.522
+Pertussis,Ventura,2005,66,796867,8.282
+Pertussis,Ventura,2006,25,801225,3.12
+Pertussis,Ventura,2007,4,805911,0.496
+Pertussis,Ventura,2008,4,812028,0.493
+Pertussis,Ventura,2009,45,818546,5.498
+Pertussis,Ventura,2010,372,825061,45.088
+Pertussis,Ventura,2011,163,830091,19.636
+Pertussis,Ventura,2012,15,833361,1.8
+Pertussis,Ventura,2013,37,839270,4.409
+Pertussis,Ventura,2014,347,844259,41.101
+Botulism- Wound,Yolo,2001,1,175102,0.571
+Botulism- Wound,Yolo,2002,0,179271,0
+Botulism- Wound,Yolo,2003,0,182331,0
+Botulism- Wound,Yolo,2004,0,185707,0
+Botulism- Wound,Yolo,2005,0,187354,0
+Botulism- Wound,Yolo,2006,0,190809,0
+Botulism- Wound,Yolo,2007,2,194854,1.026
+Botulism- Wound,Yolo,2008,0,197589,0
+Botulism- Wound,Yolo,2009,0,199697,0
+Botulism- Wound,Yolo,2010,0,201328,0
+Botulism- Wound,Yolo,2011,0,202616,0
+Botulism- Wound,Yolo,2012,0,204974,0
+Botulism- Wound,Yolo,2013,0,206136,0
+Dengue,Yolo,2001,0,175102,0
+Dengue,Yolo,2002,0,179271,0
+Dengue,Yolo,2003,0,182331,0
+Dengue,Yolo,2004,0,185707,0
+Dengue,Yolo,2005,0,187354,0
+Dengue,Yolo,2006,0,190809,0
+Dengue,Yolo,2007,0,194854,0
+Dengue,Yolo,2008,0,197589,0
+Dengue,Yolo,2009,0,199697,0
+Dengue,Yolo,2010,0,201328,0
+Dengue,Yolo,2011,0,202616,0
+Dengue,Yolo,2012,1,204974,0.488
+Dengue,Yolo,2013,1,206136,0.485
+Dengue,Yolo,2014,2,207212,0.965
+Gonorrhea,Yolo,2001,37,175102,21.131
+Gonorrhea,Yolo,2002,31,179271,17.292
+Gonorrhea,Yolo,2003,42,182331,23.035
+Gonorrhea,Yolo,2004,49,185707,26.386
+Gonorrhea,Yolo,2005,72,187354,38.43
+Gonorrhea,Yolo,2006,64,190809,33.541
+Gonorrhea,Yolo,2007,70,194854,35.924
+Gonorrhea,Yolo,2008,65,197589,32.897
+Gonorrhea,Yolo,2009,51,199697,25.539
+Gonorrhea,Yolo,2010,54,201328,26.822
+Gonorrhea,Yolo,2011,47,202616,23.197
+Gonorrhea,Yolo,2012,88,204974,42.932
+Gonorrhea,Yolo,2013,141,206136,68.401
+Gonorrhea,Yolo,2014,193,207212,93.141
+Pertussis,Yolo,2001,2,175102,1.142
+Pertussis,Yolo,2002,111,179271,61.917
+Pertussis,Yolo,2003,104,182331,57.039
+Pertussis,Yolo,2004,6,185707,3.231
+Pertussis,Yolo,2005,16,187354,8.54
+Pertussis,Yolo,2006,51,190809,26.728
+Pertussis,Yolo,2007,5,194854,2.566
+Pertussis,Yolo,2008,2,197589,1.012
+Pertussis,Yolo,2009,2,199697,1.002
+Pertussis,Yolo,2010,17,201328,8.444
+Pertussis,Yolo,2011,5,202616,2.468
+Pertussis,Yolo,2012,6,204974,2.927
+Pertussis,Yolo,2013,4,206136,1.94
+Pertussis,Yolo,2014,147,207212,70.942
+Botulism- Wound,Yuba,2001,0,61426,0
+Botulism- Wound,Yuba,2002,0,62738,0
+Botulism- Wound,Yuba,2003,0,63962,0
+Botulism- Wound,Yuba,2004,0,65249,0
+Botulism- Wound,Yuba,2005,0,67712,0
+Botulism- Wound,Yuba,2006,0,69218,0
+Botulism- Wound,Yuba,2007,0,70221,0
+Botulism- Wound,Yuba,2008,0,71422,0
+Botulism- Wound,Yuba,2009,0,71796,0
+Botulism- Wound,Yuba,2010,0,72336,0
+Botulism- Wound,Yuba,2011,0,72623,0
+Botulism- Wound,Yuba,2012,0,72915,0
+Botulism- Wound,Yuba,2013,0,72994,0
+Dengue,Yuba,2001,0,61426,0
+Dengue,Yuba,2002,0,62738,0
+Dengue,Yuba,2003,0,63962,0
+Dengue,Yuba,2004,0,65249,0
+Dengue,Yuba,2005,0,67712,0
+Dengue,Yuba,2006,0,69218,0
+Dengue,Yuba,2007,0,70221,0
+Dengue,Yuba,2008,0,71422,0
+Dengue,Yuba,2009,0,71796,0
+Dengue,Yuba,2010,1,72336,1.382
+Dengue,Yuba,2011,0,72623,0
+Dengue,Yuba,2012,0,72915,0
+Dengue,Yuba,2013,0,72994,0
+Gonorrhea,Yuba,2001,14,61426,22.792
+Gonorrhea,Yuba,2002,25,62738,39.848
+Gonorrhea,Yuba,2003,50,63962,78.171
+Gonorrhea,Yuba,2004,63,65249,96.553
+Gonorrhea,Yuba,2005,81,67712,119.624
+Gonorrhea,Yuba,2006,37,69218,53.454
+Gonorrhea,Yuba,2007,20,70221,28.482
+Gonorrhea,Yuba,2008,17,71422,23.802
+Gonorrhea,Yuba,2009,16,71796,22.285
+Gonorrhea,Yuba,2010,14,72336,19.354
+Gonorrhea,Yuba,2011,23,72623,31.67
+Gonorrhea,Yuba,2012,24,72915,32.915
+Gonorrhea,Yuba,2013,56,72994,76.719
+Gonorrhea,Yuba,2014,78,73425,106.231
+Pertussis,Yuba,2001,1,61426,1.628
+Pertussis,Yuba,2002,2,62738,3.188
+Pertussis,Yuba,2003,4,63962,6.254
+Pertussis,Yuba,2004,2,65249,3.065
+Pertussis,Yuba,2005,2,67712,2.954
+Pertussis,Yuba,2006,0,69218,0
+Pertussis,Yuba,2007,0,70221,0
+Pertussis,Yuba,2008,0,71422,0
+Pertussis,Yuba,2009,0,71796,0
+Pertussis,Yuba,2010,3,72336,4.147
+Pertussis,Yuba,2011,0,72623,0
+Pertussis,Yuba,2012,1,72915,1.371
+Pertussis,Yuba,2013,4,72994,5.48
+Pertussis,Yuba,2014,10,73425,13.619

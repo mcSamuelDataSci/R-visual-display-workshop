@@ -13,10 +13,17 @@ causeList36       <- gbdMap0[!is.na(gbdMap0$causeList),c("LABEL","causeList","na
 causeNum36        <- causeList36[,"LABEL"]
 names(causeNum36) <- causeList36[,"causeList" ]
 
+junk <- read_csv("ageGroupCauseDeath.csv",col_types = "cncccnnnn")
+
+
+tDat <- tDat[(tDat$sex== "Total" & tData$CAUSE)]
+
+
 tDat <- as.data.frame(read_csv("ageGroupCauseDeath.csv",col_types = "cncccnnnn")) %>%
            filter(sex != "Total",CAUSE != "0") %>%
            mutate(Drate=100000*Ndeaths/pop,
                   ageG=ifelse(ageG != "5 - 14",ageG,"0 5-14"))
+
 
 glimpse(tDat)
 
@@ -27,8 +34,8 @@ tDat1 <- filter(tDat,county=="California",year==2017,CAUSE %in% cList)
 tDat2 <- filter(tDat,county=="California",year==2017,CAUSE %in% cList)
 
 
-ggplot( tDat2, aes( x = ageG, y = Drate ) ) + 
-  geom_bar( stat = "identity" ) + 
+ggplot( tDat2, aes( x = ageG, y = Drate ))+
+                    geom_bar( stat = "identity" ) + 
   facet_grid(rows = vars(CAUSE), cols = vars(sex) )
 
 
