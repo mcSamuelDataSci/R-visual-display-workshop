@@ -12,7 +12,7 @@ library(RColorBrewer)
 
 #-- Read Data ------------------------------------------------------------------------------
 
-setwd("e:/0 R Samuel/GIS and Shiny")
+
 myPlace <- getwd()
 
 iData           <- read.table(paste0(myPlace,"/CID-dat.csv"),sep=",",na.strings="",header=T,as.is=TRUE)
