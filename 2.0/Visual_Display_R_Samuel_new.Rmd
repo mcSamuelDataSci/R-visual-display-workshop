@@ -13,11 +13,22 @@ output:
 
 ##
 
-- Michael Samuel, DrPH
+- Michael C. Samuel, DrPH
 - Senior Epidemiologist / Data Scientist
+
+<br> 
+
 - https://github.com/mcSamuelDataSci/R-visual-display-workshop
+- https://tinyurl.com/SamuelVizR
+- https://tinyurl.com/SamuelVizR-2-0
+
+<br>
+
 - Michael.Samuel@cdph.ca.gov
 - samfam921@gmail.com
+
+<br>
+
 - 925.285.2926
 
 
@@ -140,7 +151,7 @@ descr(n.dat$w.pounds)
 ```{r results = 'asis'}
 print(dfSummary(n.dat, valid.col = FALSE, graph.magnif = 0.75), method = "render"     
       )
-#view(dfSummary(n.dat))
+view(dfSummary(n.dat))
 
 ```
 
